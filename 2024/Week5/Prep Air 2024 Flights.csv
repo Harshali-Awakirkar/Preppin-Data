@@ -1,0 +1,2515 @@
+Date,Flight Number,From,To
+22-11-2024,PA001,London,New York
+23-11-2024,PA001,London,New York
+23-11-2024,PA002,New York,London
+24-11-2024,PA001,London,New York
+27-11-2024,PA001,London,New York
+27-11-2024,PA002,New York,London
+30-11-2024,PA001,London,New York
+30-11-2024,PA002,New York,London
+01-12-2024,PA002,New York,London
+02-12-2024,PA001,London,New York
+03-12-2024,PA002,New York,London
+05-12-2024,PA001,London,New York
+05-12-2024,PA002,New York,London
+06-12-2024,PA001,London,New York
+07-12-2024,PA001,London,New York
+08-12-2024,PA001,London,New York
+08-12-2024,PA002,New York,London
+09-12-2024,PA002,New York,London
+10-12-2024,PA002,New York,London
+11-12-2024,PA001,London,New York
+11-12-2024,PA002,New York,London
+13-12-2024,PA002,New York,London
+14-12-2024,PA001,London,New York
+15-12-2024,PA002,New York,London
+16-12-2024,PA002,New York,London
+17-12-2024,PA002,New York,London
+18-12-2024,PA002,New York,London
+19-12-2024,PA001,London,New York
+20-12-2024,PA001,London,New York
+20-12-2024,PA002,New York,London
+21-12-2024,PA001,London,New York
+21-12-2024,PA002,New York,London
+22-12-2024,PA001,London,New York
+22-12-2024,PA002,New York,London
+23-12-2024,PA002,New York,London
+24-12-2024,PA001,London,New York
+25-12-2024,PA002,New York,London
+26-12-2024,PA001,London,New York
+27-12-2024,PA001,London,New York
+28-12-2024,PA001,London,New York
+28-12-2024,PA002,New York,London
+29-12-2024,PA002,New York,London
+30-12-2024,PA001,London,New York
+31-12-2024,PA001,London,New York
+31-12-2024,PA002,New York,London
+18-11-2024,PA003,London,Perth
+18-11-2024,PA004,Perth,London
+19-11-2024,PA003,London,Perth
+20-11-2024,PA004,Perth,London
+21-11-2024,PA003,London,Perth
+22-11-2024,PA003,London,Perth
+23-11-2024,PA003,London,Perth
+25-11-2024,PA003,London,Perth
+28-11-2024,PA004,Perth,London
+29-11-2024,PA003,London,Perth
+29-11-2024,PA004,Perth,London
+30-11-2024,PA004,Perth,London
+01-12-2024,PA004,Perth,London
+02-12-2024,PA004,Perth,London
+03-12-2024,PA003,London,Perth
+03-12-2024,PA004,Perth,London
+04-12-2024,PA003,London,Perth
+04-12-2024,PA004,Perth,London
+05-12-2024,PA003,London,Perth
+05-12-2024,PA004,Perth,London
+06-12-2024,PA003,London,Perth
+07-12-2024,PA004,Perth,London
+08-12-2024,PA003,London,Perth
+09-12-2024,PA003,London,Perth
+10-12-2024,PA003,London,Perth
+10-12-2024,PA004,Perth,London
+11-12-2024,PA004,Perth,London
+12-12-2024,PA003,London,Perth
+13-12-2024,PA003,London,Perth
+15-12-2024,PA003,London,Perth
+15-12-2024,PA004,Perth,London
+16-12-2024,PA004,Perth,London
+17-12-2024,PA004,Perth,London
+18-12-2024,PA004,Perth,London
+20-12-2024,PA004,Perth,London
+21-12-2024,PA003,London,Perth
+21-12-2024,PA004,Perth,London
+22-12-2024,PA004,Perth,London
+23-12-2024,PA003,London,Perth
+23-12-2024,PA004,Perth,London
+24-12-2024,PA004,Perth,London
+25-12-2024,PA003,London,Perth
+25-12-2024,PA004,Perth,London
+26-12-2024,PA003,London,Perth
+26-12-2024,PA004,Perth,London
+28-12-2024,PA004,Perth,London
+29-12-2024,PA003,London,Perth
+29-12-2024,PA004,Perth,London
+30-12-2024,PA003,London,Perth
+31-12-2024,PA004,Perth,London
+15-11-2024,PA005,London,Tokyo
+20-11-2024,PA005,London,Tokyo
+20-11-2024,PA006,Tokyo,London
+21-11-2024,PA005,London,Tokyo
+21-11-2024,PA006,Tokyo,London
+22-11-2024,PA005,London,Tokyo
+23-11-2024,PA005,London,Tokyo
+24-11-2024,PA005,London,Tokyo
+26-11-2024,PA005,London,Tokyo
+26-11-2024,PA006,Tokyo,London
+27-11-2024,PA005,London,Tokyo
+27-11-2024,PA006,Tokyo,London
+28-11-2024,PA005,London,Tokyo
+28-11-2024,PA006,Tokyo,London
+30-11-2024,PA006,Tokyo,London
+02-12-2024,PA005,London,Tokyo
+02-12-2024,PA006,Tokyo,London
+04-12-2024,PA005,London,Tokyo
+04-12-2024,PA006,Tokyo,London
+05-12-2024,PA005,London,Tokyo
+05-12-2024,PA006,Tokyo,London
+06-12-2024,PA005,London,Tokyo
+06-12-2024,PA006,Tokyo,London
+07-12-2024,PA006,Tokyo,London
+08-12-2024,PA005,London,Tokyo
+08-12-2024,PA006,Tokyo,London
+09-12-2024,PA006,Tokyo,London
+10-12-2024,PA005,London,Tokyo
+10-12-2024,PA006,Tokyo,London
+11-12-2024,PA005,London,Tokyo
+12-12-2024,PA005,London,Tokyo
+12-12-2024,PA006,Tokyo,London
+13-12-2024,PA006,Tokyo,London
+14-12-2024,PA005,London,Tokyo
+15-12-2024,PA005,London,Tokyo
+15-12-2024,PA006,Tokyo,London
+16-12-2024,PA005,London,Tokyo
+16-12-2024,PA006,Tokyo,London
+18-12-2024,PA005,London,Tokyo
+19-12-2024,PA006,Tokyo,London
+20-12-2024,PA005,London,Tokyo
+20-12-2024,PA006,Tokyo,London
+21-12-2024,PA005,London,Tokyo
+21-12-2024,PA006,Tokyo,London
+22-12-2024,PA006,Tokyo,London
+23-12-2024,PA006,Tokyo,London
+24-12-2024,PA005,London,Tokyo
+24-12-2024,PA006,Tokyo,London
+25-12-2024,PA005,London,Tokyo
+25-12-2024,PA006,Tokyo,London
+26-12-2024,PA006,Tokyo,London
+27-12-2024,PA005,London,Tokyo
+29-12-2024,PA005,London,Tokyo
+29-12-2024,PA006,Tokyo,London
+31-12-2024,PA005,London,Tokyo
+31-12-2024,PA006,Tokyo,London
+18-11-2024,PA007,New York,Perth
+18-11-2024,PA008,Perth,New York
+21-11-2024,PA007,New York,Perth
+22-11-2024,PA008,Perth,New York
+23-11-2024,PA007,New York,Perth
+23-11-2024,PA008,Perth,New York
+24-11-2024,PA008,Perth,New York
+27-11-2024,PA007,New York,Perth
+28-11-2024,PA008,Perth,New York
+29-11-2024,PA007,New York,Perth
+01-12-2024,PA007,New York,Perth
+01-12-2024,PA008,Perth,New York
+02-12-2024,PA007,New York,Perth
+02-12-2024,PA008,Perth,New York
+04-12-2024,PA007,New York,Perth
+05-12-2024,PA007,New York,Perth
+05-12-2024,PA008,Perth,New York
+09-12-2024,PA007,New York,Perth
+09-12-2024,PA008,Perth,New York
+11-12-2024,PA007,New York,Perth
+11-12-2024,PA008,Perth,New York
+12-12-2024,PA008,Perth,New York
+13-12-2024,PA007,New York,Perth
+13-12-2024,PA008,Perth,New York
+14-12-2024,PA007,New York,Perth
+15-12-2024,PA007,New York,Perth
+15-12-2024,PA008,Perth,New York
+16-12-2024,PA008,Perth,New York
+17-12-2024,PA007,New York,Perth
+17-12-2024,PA008,Perth,New York
+18-12-2024,PA008,Perth,New York
+20-12-2024,PA007,New York,Perth
+21-12-2024,PA007,New York,Perth
+23-12-2024,PA008,Perth,New York
+24-12-2024,PA007,New York,Perth
+24-12-2024,PA008,Perth,New York
+25-12-2024,PA007,New York,Perth
+25-12-2024,PA008,Perth,New York
+26-12-2024,PA008,Perth,New York
+27-12-2024,PA007,New York,Perth
+27-12-2024,PA008,Perth,New York
+28-12-2024,PA007,New York,Perth
+28-12-2024,PA008,Perth,New York
+29-12-2024,PA007,New York,Perth
+18-11-2024,PA010,Tokyo,New York
+21-11-2024,PA010,Tokyo,New York
+22-11-2024,PA010,Tokyo,New York
+23-11-2024,PA009,New York,Tokyo
+24-11-2024,PA009,New York,Tokyo
+24-11-2024,PA010,Tokyo,New York
+25-11-2024,PA009,New York,Tokyo
+25-11-2024,PA010,Tokyo,New York
+26-11-2024,PA010,Tokyo,New York
+28-11-2024,PA009,New York,Tokyo
+28-11-2024,PA010,Tokyo,New York
+29-11-2024,PA009,New York,Tokyo
+29-11-2024,PA010,Tokyo,New York
+30-11-2024,PA010,Tokyo,New York
+01-12-2024,PA010,Tokyo,New York
+03-12-2024,PA010,Tokyo,New York
+05-12-2024,PA009,New York,Tokyo
+05-12-2024,PA010,Tokyo,New York
+07-12-2024,PA009,New York,Tokyo
+07-12-2024,PA010,Tokyo,New York
+08-12-2024,PA009,New York,Tokyo
+09-12-2024,PA009,New York,Tokyo
+09-12-2024,PA010,Tokyo,New York
+10-12-2024,PA010,Tokyo,New York
+11-12-2024,PA010,Tokyo,New York
+12-12-2024,PA009,New York,Tokyo
+12-12-2024,PA010,Tokyo,New York
+13-12-2024,PA009,New York,Tokyo
+15-12-2024,PA009,New York,Tokyo
+15-12-2024,PA010,Tokyo,New York
+16-12-2024,PA009,New York,Tokyo
+16-12-2024,PA010,Tokyo,New York
+17-12-2024,PA009,New York,Tokyo
+17-12-2024,PA010,Tokyo,New York
+18-12-2024,PA009,New York,Tokyo
+18-12-2024,PA010,Tokyo,New York
+20-12-2024,PA009,New York,Tokyo
+21-12-2024,PA009,New York,Tokyo
+22-12-2024,PA010,Tokyo,New York
+23-12-2024,PA009,New York,Tokyo
+23-12-2024,PA010,Tokyo,New York
+24-12-2024,PA010,Tokyo,New York
+26-12-2024,PA009,New York,Tokyo
+27-12-2024,PA009,New York,Tokyo
+28-12-2024,PA009,New York,Tokyo
+28-12-2024,PA010,Tokyo,New York
+29-12-2024,PA010,Tokyo,New York
+31-12-2024,PA010,Tokyo,New York
+16-11-2024,PA011,Perth,Tokyo
+19-11-2024,PA011,Perth,Tokyo
+21-11-2024,PA011,Perth,Tokyo
+21-11-2024,PA012,Tokyo,Perth
+22-11-2024,PA011,Perth,Tokyo
+22-11-2024,PA012,Tokyo,Perth
+23-11-2024,PA011,Perth,Tokyo
+24-11-2024,PA011,Perth,Tokyo
+25-11-2024,PA012,Tokyo,Perth
+26-11-2024,PA011,Perth,Tokyo
+26-11-2024,PA012,Tokyo,Perth
+27-11-2024,PA011,Perth,Tokyo
+27-11-2024,PA012,Tokyo,Perth
+28-11-2024,PA012,Tokyo,Perth
+02-12-2024,PA012,Tokyo,Perth
+03-12-2024,PA011,Perth,Tokyo
+03-12-2024,PA012,Tokyo,Perth
+04-12-2024,PA011,Perth,Tokyo
+04-12-2024,PA012,Tokyo,Perth
+05-12-2024,PA012,Tokyo,Perth
+06-12-2024,PA011,Perth,Tokyo
+08-12-2024,PA011,Perth,Tokyo
+09-12-2024,PA011,Perth,Tokyo
+09-12-2024,PA012,Tokyo,Perth
+10-12-2024,PA011,Perth,Tokyo
+10-12-2024,PA012,Tokyo,Perth
+11-12-2024,PA012,Tokyo,Perth
+12-12-2024,PA011,Perth,Tokyo
+13-12-2024,PA012,Tokyo,Perth
+14-12-2024,PA011,Perth,Tokyo
+15-12-2024,PA011,Perth,Tokyo
+15-12-2024,PA012,Tokyo,Perth
+16-12-2024,PA012,Tokyo,Perth
+17-12-2024,PA011,Perth,Tokyo
+17-12-2024,PA012,Tokyo,Perth
+18-12-2024,PA011,Perth,Tokyo
+18-12-2024,PA012,Tokyo,Perth
+20-12-2024,PA011,Perth,Tokyo
+20-12-2024,PA012,Tokyo,Perth
+21-12-2024,PA012,Tokyo,Perth
+22-12-2024,PA011,Perth,Tokyo
+23-12-2024,PA012,Tokyo,Perth
+24-12-2024,PA012,Tokyo,Perth
+25-12-2024,PA011,Perth,Tokyo
+25-12-2024,PA012,Tokyo,Perth
+26-12-2024,PA011,Perth,Tokyo
+26-12-2024,PA012,Tokyo,Perth
+27-12-2024,PA011,Perth,Tokyo
+27-12-2024,PA012,Tokyo,Perth
+28-12-2024,PA012,Tokyo,Perth
+29-12-2024,PA011,Perth,Tokyo
+30-12-2024,PA011,Perth,Tokyo
+31-12-2024,PA011,Perth,Tokyo
+02-01-2024,PA003,London,Perth
+02-01-2024,PA005,London,Tokyo
+02-01-2024,PA008,Perth,New York
+02-01-2024,PA009,New York,Tokyo
+02-01-2024,PA010,Tokyo,New York
+02-01-2024,PA011,Perth,Tokyo
+02-01-2024,PA012,Tokyo,Perth
+03-01-2024,PA001,London,New York
+03-01-2024,PA003,London,Perth
+03-01-2024,PA004,Perth,London
+03-01-2024,PA006,Tokyo,London
+03-01-2024,PA007,New York,Perth
+03-01-2024,PA008,Perth,New York
+03-01-2024,PA010,Tokyo,New York
+03-01-2024,PA011,Perth,Tokyo
+04-01-2024,PA002,New York,London
+04-01-2024,PA003,London,Perth
+04-01-2024,PA007,New York,Perth
+04-01-2024,PA010,Tokyo,New York
+04-01-2024,PA011,Perth,Tokyo
+04-01-2024,PA012,Tokyo,Perth
+05-01-2024,PA001,London,New York
+05-01-2024,PA004,Perth,London
+05-01-2024,PA007,New York,Perth
+05-01-2024,PA009,New York,Tokyo
+05-01-2024,PA010,Tokyo,New York
+05-01-2024,PA011,Perth,Tokyo
+05-01-2024,PA012,Tokyo,Perth
+06-01-2024,PA001,London,New York
+06-01-2024,PA003,London,Perth
+06-01-2024,PA004,Perth,London
+06-01-2024,PA006,Tokyo,London
+06-01-2024,PA007,New York,Perth
+06-01-2024,PA008,Perth,New York
+06-01-2024,PA011,Perth,Tokyo
+06-01-2024,PA012,Tokyo,Perth
+07-01-2024,PA001,London,New York
+07-01-2024,PA002,New York,London
+07-01-2024,PA003,London,Perth
+07-01-2024,PA010,Tokyo,New York
+07-01-2024,PA011,Perth,Tokyo
+07-01-2024,PA012,Tokyo,Perth
+08-01-2024,PA007,New York,Perth
+08-01-2024,PA008,Perth,New York
+08-01-2024,PA009,New York,Tokyo
+08-01-2024,PA010,Tokyo,New York
+08-01-2024,PA011,Perth,Tokyo
+08-01-2024,PA012,Tokyo,Perth
+09-01-2024,PA001,London,New York
+09-01-2024,PA002,New York,London
+09-01-2024,PA006,Tokyo,London
+09-01-2024,PA008,Perth,New York
+09-01-2024,PA010,Tokyo,New York
+09-01-2024,PA011,Perth,Tokyo
+09-01-2024,PA012,Tokyo,Perth
+10-01-2024,PA001,London,New York
+10-01-2024,PA002,New York,London
+10-01-2024,PA003,London,Perth
+10-01-2024,PA005,London,Tokyo
+10-01-2024,PA007,New York,Perth
+10-01-2024,PA010,Tokyo,New York
+11-01-2024,PA001,London,New York
+11-01-2024,PA002,New York,London
+11-01-2024,PA003,London,Perth
+11-01-2024,PA004,Perth,London
+11-01-2024,PA005,London,Tokyo
+11-01-2024,PA008,Perth,New York
+11-01-2024,PA009,New York,Tokyo
+11-01-2024,PA010,Tokyo,New York
+11-01-2024,PA011,Perth,Tokyo
+11-01-2024,PA012,Tokyo,Perth
+12-01-2024,PA003,London,Perth
+12-01-2024,PA004,Perth,London
+12-01-2024,PA006,Tokyo,London
+12-01-2024,PA007,New York,Perth
+12-01-2024,PA008,Perth,New York
+12-01-2024,PA009,New York,Tokyo
+12-01-2024,PA010,Tokyo,New York
+12-01-2024,PA011,Perth,Tokyo
+13-01-2024,PA001,London,New York
+13-01-2024,PA002,New York,London
+13-01-2024,PA006,Tokyo,London
+13-01-2024,PA007,New York,Perth
+13-01-2024,PA008,Perth,New York
+13-01-2024,PA010,Tokyo,New York
+14-01-2024,PA004,Perth,London
+14-01-2024,PA005,London,Tokyo
+14-01-2024,PA010,Tokyo,New York
+14-01-2024,PA012,Tokyo,Perth
+15-01-2024,PA001,London,New York
+15-01-2024,PA002,New York,London
+15-01-2024,PA003,London,Perth
+15-01-2024,PA004,Perth,London
+15-01-2024,PA005,London,Tokyo
+15-01-2024,PA006,Tokyo,London
+15-01-2024,PA008,Perth,New York
+15-01-2024,PA009,New York,Tokyo
+16-01-2024,PA002,New York,London
+16-01-2024,PA003,London,Perth
+16-01-2024,PA007,New York,Perth
+16-01-2024,PA009,New York,Tokyo
+16-01-2024,PA010,Tokyo,New York
+16-01-2024,PA012,Tokyo,Perth
+17-01-2024,PA002,New York,London
+17-01-2024,PA003,London,Perth
+17-01-2024,PA004,Perth,London
+17-01-2024,PA005,London,Tokyo
+17-01-2024,PA006,Tokyo,London
+17-01-2024,PA009,New York,Tokyo
+17-01-2024,PA010,Tokyo,New York
+17-01-2024,PA012,Tokyo,Perth
+18-01-2024,PA001,London,New York
+18-01-2024,PA003,London,Perth
+18-01-2024,PA004,Perth,London
+18-01-2024,PA005,London,Tokyo
+18-01-2024,PA006,Tokyo,London
+18-01-2024,PA007,New York,Perth
+18-01-2024,PA009,New York,Tokyo
+18-01-2024,PA010,Tokyo,New York
+18-01-2024,PA012,Tokyo,Perth
+19-01-2024,PA004,Perth,London
+19-01-2024,PA005,London,Tokyo
+19-01-2024,PA006,Tokyo,London
+19-01-2024,PA007,New York,Perth
+19-01-2024,PA009,New York,Tokyo
+19-01-2024,PA010,Tokyo,New York
+19-01-2024,PA011,Perth,Tokyo
+19-01-2024,PA012,Tokyo,Perth
+20-01-2024,PA002,New York,London
+20-01-2024,PA004,Perth,London
+20-01-2024,PA008,Perth,New York
+20-01-2024,PA009,New York,Tokyo
+20-01-2024,PA010,Tokyo,New York
+20-01-2024,PA012,Tokyo,Perth
+21-01-2024,PA001,London,New York
+21-01-2024,PA003,London,Perth
+21-01-2024,PA005,London,Tokyo
+21-01-2024,PA006,Tokyo,London
+21-01-2024,PA009,New York,Tokyo
+21-01-2024,PA011,Perth,Tokyo
+21-01-2024,PA012,Tokyo,Perth
+22-01-2024,PA005,London,Tokyo
+22-01-2024,PA006,Tokyo,London
+22-01-2024,PA007,New York,Perth
+22-01-2024,PA008,Perth,New York
+22-01-2024,PA011,Perth,Tokyo
+22-01-2024,PA012,Tokyo,Perth
+23-01-2024,PA001,London,New York
+23-01-2024,PA002,New York,London
+23-01-2024,PA003,London,Perth
+23-01-2024,PA005,London,Tokyo
+23-01-2024,PA007,New York,Perth
+23-01-2024,PA008,Perth,New York
+23-01-2024,PA009,New York,Tokyo
+23-01-2024,PA010,Tokyo,New York
+23-01-2024,PA011,Perth,Tokyo
+24-01-2024,PA003,London,Perth
+24-01-2024,PA005,London,Tokyo
+24-01-2024,PA007,New York,Perth
+24-01-2024,PA011,Perth,Tokyo
+24-01-2024,PA012,Tokyo,Perth
+25-01-2024,PA001,London,New York
+25-01-2024,PA003,London,Perth
+25-01-2024,PA006,Tokyo,London
+25-01-2024,PA007,New York,Perth
+25-01-2024,PA010,Tokyo,New York
+25-01-2024,PA012,Tokyo,Perth
+26-01-2024,PA001,London,New York
+26-01-2024,PA003,London,Perth
+26-01-2024,PA004,Perth,London
+26-01-2024,PA008,Perth,New York
+26-01-2024,PA009,New York,Tokyo
+26-01-2024,PA010,Tokyo,New York
+26-01-2024,PA011,Perth,Tokyo
+27-01-2024,PA001,London,New York
+27-01-2024,PA002,New York,London
+27-01-2024,PA003,London,Perth
+27-01-2024,PA004,Perth,London
+27-01-2024,PA005,London,Tokyo
+27-01-2024,PA006,Tokyo,London
+27-01-2024,PA007,New York,Perth
+27-01-2024,PA008,Perth,New York
+27-01-2024,PA010,Tokyo,New York
+27-01-2024,PA011,Perth,Tokyo
+28-01-2024,PA001,London,New York
+28-01-2024,PA004,Perth,London
+28-01-2024,PA006,Tokyo,London
+28-01-2024,PA009,New York,Tokyo
+28-01-2024,PA010,Tokyo,New York
+28-01-2024,PA011,Perth,Tokyo
+29-01-2024,PA001,London,New York
+29-01-2024,PA002,New York,London
+29-01-2024,PA004,Perth,London
+29-01-2024,PA006,Tokyo,London
+29-01-2024,PA007,New York,Perth
+29-01-2024,PA008,Perth,New York
+29-01-2024,PA009,New York,Tokyo
+29-01-2024,PA010,Tokyo,New York
+29-01-2024,PA012,Tokyo,Perth
+30-01-2024,PA002,New York,London
+30-01-2024,PA004,Perth,London
+30-01-2024,PA007,New York,Perth
+30-01-2024,PA010,Tokyo,New York
+31-01-2024,PA001,London,New York
+31-01-2024,PA002,New York,London
+31-01-2024,PA003,London,Perth
+31-01-2024,PA004,Perth,London
+31-01-2024,PA005,London,Tokyo
+31-01-2024,PA009,New York,Tokyo
+31-01-2024,PA010,Tokyo,New York
+31-01-2024,PA011,Perth,Tokyo
+31-01-2024,PA012,Tokyo,Perth
+01-02-2024,PA001,London,New York
+01-02-2024,PA004,Perth,London
+01-02-2024,PA005,London,Tokyo
+01-02-2024,PA009,New York,Tokyo
+01-02-2024,PA010,Tokyo,New York
+01-02-2024,PA011,Perth,Tokyo
+01-02-2024,PA012,Tokyo,Perth
+02-02-2024,PA001,London,New York
+02-02-2024,PA002,New York,London
+02-02-2024,PA003,London,Perth
+02-02-2024,PA005,London,Tokyo
+02-02-2024,PA006,Tokyo,London
+02-02-2024,PA008,Perth,New York
+02-02-2024,PA012,Tokyo,Perth
+03-02-2024,PA003,London,Perth
+03-02-2024,PA004,Perth,London
+03-02-2024,PA005,London,Tokyo
+03-02-2024,PA008,Perth,New York
+03-02-2024,PA012,Tokyo,Perth
+04-02-2024,PA001,London,New York
+04-02-2024,PA003,London,Perth
+04-02-2024,PA004,Perth,London
+04-02-2024,PA005,London,Tokyo
+04-02-2024,PA008,Perth,New York
+04-02-2024,PA011,Perth,Tokyo
+04-02-2024,PA012,Tokyo,Perth
+05-02-2024,PA006,Tokyo,London
+05-02-2024,PA008,Perth,New York
+05-02-2024,PA011,Perth,Tokyo
+05-02-2024,PA012,Tokyo,Perth
+06-02-2024,PA002,New York,London
+06-02-2024,PA003,London,Perth
+06-02-2024,PA004,Perth,London
+06-02-2024,PA005,London,Tokyo
+06-02-2024,PA007,New York,Perth
+06-02-2024,PA012,Tokyo,Perth
+07-02-2024,PA001,London,New York
+07-02-2024,PA002,New York,London
+07-02-2024,PA003,London,Perth
+07-02-2024,PA004,Perth,London
+07-02-2024,PA006,Tokyo,London
+07-02-2024,PA007,New York,Perth
+07-02-2024,PA008,Perth,New York
+07-02-2024,PA009,New York,Tokyo
+07-02-2024,PA010,Tokyo,New York
+07-02-2024,PA012,Tokyo,Perth
+08-02-2024,PA002,New York,London
+08-02-2024,PA006,Tokyo,London
+08-02-2024,PA008,Perth,New York
+08-02-2024,PA009,New York,Tokyo
+08-02-2024,PA010,Tokyo,New York
+09-02-2024,PA001,London,New York
+09-02-2024,PA003,London,Perth
+09-02-2024,PA005,London,Tokyo
+09-02-2024,PA008,Perth,New York
+09-02-2024,PA010,Tokyo,New York
+10-02-2024,PA001,London,New York
+10-02-2024,PA002,New York,London
+10-02-2024,PA005,London,Tokyo
+10-02-2024,PA007,New York,Perth
+10-02-2024,PA009,New York,Tokyo
+10-02-2024,PA010,Tokyo,New York
+10-02-2024,PA012,Tokyo,Perth
+11-02-2024,PA005,London,Tokyo
+11-02-2024,PA006,Tokyo,London
+11-02-2024,PA007,New York,Perth
+11-02-2024,PA008,Perth,New York
+11-02-2024,PA009,New York,Tokyo
+11-02-2024,PA011,Perth,Tokyo
+11-02-2024,PA012,Tokyo,Perth
+12-02-2024,PA001,London,New York
+12-02-2024,PA002,New York,London
+12-02-2024,PA003,London,Perth
+12-02-2024,PA004,Perth,London
+12-02-2024,PA005,London,Tokyo
+12-02-2024,PA006,Tokyo,London
+12-02-2024,PA008,Perth,New York
+12-02-2024,PA010,Tokyo,New York
+12-02-2024,PA011,Perth,Tokyo
+12-02-2024,PA012,Tokyo,Perth
+13-02-2024,PA001,London,New York
+13-02-2024,PA003,London,Perth
+13-02-2024,PA004,Perth,London
+13-02-2024,PA005,London,Tokyo
+13-02-2024,PA010,Tokyo,New York
+14-02-2024,PA002,New York,London
+14-02-2024,PA004,Perth,London
+14-02-2024,PA006,Tokyo,London
+14-02-2024,PA007,New York,Perth
+14-02-2024,PA009,New York,Tokyo
+14-02-2024,PA010,Tokyo,New York
+15-02-2024,PA002,New York,London
+15-02-2024,PA004,Perth,London
+15-02-2024,PA005,London,Tokyo
+15-02-2024,PA006,Tokyo,London
+15-02-2024,PA008,Perth,New York
+15-02-2024,PA009,New York,Tokyo
+15-02-2024,PA010,Tokyo,New York
+15-02-2024,PA011,Perth,Tokyo
+15-02-2024,PA012,Tokyo,Perth
+16-02-2024,PA001,London,New York
+16-02-2024,PA002,New York,London
+16-02-2024,PA003,London,Perth
+16-02-2024,PA006,Tokyo,London
+16-02-2024,PA009,New York,Tokyo
+16-02-2024,PA010,Tokyo,New York
+16-02-2024,PA012,Tokyo,Perth
+17-02-2024,PA001,London,New York
+17-02-2024,PA002,New York,London
+17-02-2024,PA003,London,Perth
+17-02-2024,PA007,New York,Perth
+17-02-2024,PA008,Perth,New York
+17-02-2024,PA012,Tokyo,Perth
+18-02-2024,PA005,London,Tokyo
+18-02-2024,PA006,Tokyo,London
+18-02-2024,PA008,Perth,New York
+18-02-2024,PA011,Perth,Tokyo
+18-02-2024,PA012,Tokyo,Perth
+19-02-2024,PA002,New York,London
+19-02-2024,PA003,London,Perth
+19-02-2024,PA004,Perth,London
+19-02-2024,PA005,London,Tokyo
+19-02-2024,PA006,Tokyo,London
+19-02-2024,PA008,Perth,New York
+19-02-2024,PA009,New York,Tokyo
+19-02-2024,PA010,Tokyo,New York
+19-02-2024,PA011,Perth,Tokyo
+19-02-2024,PA012,Tokyo,Perth
+20-02-2024,PA002,New York,London
+20-02-2024,PA004,Perth,London
+20-02-2024,PA005,London,Tokyo
+20-02-2024,PA007,New York,Perth
+21-02-2024,PA002,New York,London
+21-02-2024,PA003,London,Perth
+21-02-2024,PA004,Perth,London
+21-02-2024,PA007,New York,Perth
+21-02-2024,PA008,Perth,New York
+21-02-2024,PA011,Perth,Tokyo
+22-02-2024,PA001,London,New York
+22-02-2024,PA002,New York,London
+22-02-2024,PA005,London,Tokyo
+22-02-2024,PA006,Tokyo,London
+22-02-2024,PA007,New York,Perth
+22-02-2024,PA008,Perth,New York
+22-02-2024,PA009,New York,Tokyo
+22-02-2024,PA011,Perth,Tokyo
+22-02-2024,PA012,Tokyo,Perth
+23-02-2024,PA002,New York,London
+23-02-2024,PA003,London,Perth
+23-02-2024,PA006,Tokyo,London
+23-02-2024,PA009,New York,Tokyo
+23-02-2024,PA012,Tokyo,Perth
+24-02-2024,PA002,New York,London
+24-02-2024,PA003,London,Perth
+24-02-2024,PA005,London,Tokyo
+24-02-2024,PA006,Tokyo,London
+24-02-2024,PA007,New York,Perth
+24-02-2024,PA008,Perth,New York
+24-02-2024,PA009,New York,Tokyo
+24-02-2024,PA010,Tokyo,New York
+25-02-2024,PA002,New York,London
+25-02-2024,PA003,London,Perth
+25-02-2024,PA004,Perth,London
+25-02-2024,PA005,London,Tokyo
+25-02-2024,PA006,Tokyo,London
+25-02-2024,PA009,New York,Tokyo
+25-02-2024,PA010,Tokyo,New York
+25-02-2024,PA011,Perth,Tokyo
+26-02-2024,PA001,London,New York
+26-02-2024,PA002,New York,London
+26-02-2024,PA003,London,Perth
+26-02-2024,PA006,Tokyo,London
+26-02-2024,PA007,New York,Perth
+26-02-2024,PA009,New York,Tokyo
+27-02-2024,PA001,London,New York
+27-02-2024,PA002,New York,London
+27-02-2024,PA004,Perth,London
+27-02-2024,PA005,London,Tokyo
+27-02-2024,PA007,New York,Perth
+27-02-2024,PA009,New York,Tokyo
+28-02-2024,PA003,London,Perth
+28-02-2024,PA005,London,Tokyo
+28-02-2024,PA006,Tokyo,London
+28-02-2024,PA007,New York,Perth
+28-02-2024,PA008,Perth,New York
+28-02-2024,PA009,New York,Tokyo
+28-02-2024,PA010,Tokyo,New York
+28-02-2024,PA011,Perth,Tokyo
+29-02-2024,PA001,London,New York
+29-02-2024,PA003,London,Perth
+29-02-2024,PA007,New York,Perth
+29-02-2024,PA008,Perth,New York
+29-02-2024,PA009,New York,Tokyo
+29-02-2024,PA010,Tokyo,New York
+01-03-2024,PA004,Perth,London
+01-03-2024,PA005,London,Tokyo
+01-03-2024,PA007,New York,Perth
+01-03-2024,PA008,Perth,New York
+01-03-2024,PA010,Tokyo,New York
+02-03-2024,PA001,London,New York
+02-03-2024,PA003,London,Perth
+02-03-2024,PA004,Perth,London
+02-03-2024,PA006,Tokyo,London
+02-03-2024,PA007,New York,Perth
+02-03-2024,PA008,Perth,New York
+02-03-2024,PA009,New York,Tokyo
+02-03-2024,PA011,Perth,Tokyo
+02-03-2024,PA012,Tokyo,Perth
+03-03-2024,PA001,London,New York
+03-03-2024,PA003,London,Perth
+03-03-2024,PA005,London,Tokyo
+03-03-2024,PA006,Tokyo,London
+03-03-2024,PA009,New York,Tokyo
+04-03-2024,PA001,London,New York
+04-03-2024,PA004,Perth,London
+04-03-2024,PA005,London,Tokyo
+04-03-2024,PA006,Tokyo,London
+04-03-2024,PA007,New York,Perth
+04-03-2024,PA008,Perth,New York
+04-03-2024,PA009,New York,Tokyo
+04-03-2024,PA010,Tokyo,New York
+05-03-2024,PA001,London,New York
+05-03-2024,PA003,London,Perth
+05-03-2024,PA004,Perth,London
+05-03-2024,PA005,London,Tokyo
+05-03-2024,PA006,Tokyo,London
+05-03-2024,PA008,Perth,New York
+05-03-2024,PA011,Perth,Tokyo
+05-03-2024,PA012,Tokyo,Perth
+06-03-2024,PA003,London,Perth
+06-03-2024,PA004,Perth,London
+06-03-2024,PA006,Tokyo,London
+06-03-2024,PA009,New York,Tokyo
+06-03-2024,PA010,Tokyo,New York
+06-03-2024,PA012,Tokyo,Perth
+07-03-2024,PA001,London,New York
+07-03-2024,PA002,New York,London
+07-03-2024,PA003,London,Perth
+07-03-2024,PA005,London,Tokyo
+07-03-2024,PA006,Tokyo,London
+07-03-2024,PA008,Perth,New York
+07-03-2024,PA009,New York,Tokyo
+08-03-2024,PA003,London,Perth
+08-03-2024,PA004,Perth,London
+08-03-2024,PA006,Tokyo,London
+08-03-2024,PA007,New York,Perth
+08-03-2024,PA009,New York,Tokyo
+08-03-2024,PA012,Tokyo,Perth
+09-03-2024,PA003,London,Perth
+09-03-2024,PA004,Perth,London
+09-03-2024,PA006,Tokyo,London
+09-03-2024,PA010,Tokyo,New York
+09-03-2024,PA011,Perth,Tokyo
+09-03-2024,PA012,Tokyo,Perth
+10-03-2024,PA002,New York,London
+10-03-2024,PA003,London,Perth
+10-03-2024,PA008,Perth,New York
+10-03-2024,PA010,Tokyo,New York
+10-03-2024,PA011,Perth,Tokyo
+10-03-2024,PA012,Tokyo,Perth
+11-03-2024,PA002,New York,London
+11-03-2024,PA004,Perth,London
+11-03-2024,PA005,London,Tokyo
+11-03-2024,PA006,Tokyo,London
+11-03-2024,PA007,New York,Perth
+11-03-2024,PA008,Perth,New York
+11-03-2024,PA009,New York,Tokyo
+11-03-2024,PA010,Tokyo,New York
+11-03-2024,PA011,Perth,Tokyo
+12-03-2024,PA002,New York,London
+12-03-2024,PA005,London,Tokyo
+12-03-2024,PA006,Tokyo,London
+12-03-2024,PA007,New York,Perth
+12-03-2024,PA008,Perth,New York
+12-03-2024,PA010,Tokyo,New York
+13-03-2024,PA001,London,New York
+13-03-2024,PA004,Perth,London
+13-03-2024,PA005,London,Tokyo
+13-03-2024,PA007,New York,Perth
+13-03-2024,PA008,Perth,New York
+13-03-2024,PA011,Perth,Tokyo
+13-03-2024,PA012,Tokyo,Perth
+14-03-2024,PA002,New York,London
+14-03-2024,PA005,London,Tokyo
+14-03-2024,PA008,Perth,New York
+14-03-2024,PA009,New York,Tokyo
+15-03-2024,PA002,New York,London
+15-03-2024,PA004,Perth,London
+15-03-2024,PA012,Tokyo,Perth
+16-03-2024,PA001,London,New York
+16-03-2024,PA005,London,Tokyo
+16-03-2024,PA007,New York,Perth
+16-03-2024,PA009,New York,Tokyo
+16-03-2024,PA010,Tokyo,New York
+16-03-2024,PA011,Perth,Tokyo
+16-03-2024,PA012,Tokyo,Perth
+17-03-2024,PA001,London,New York
+17-03-2024,PA004,Perth,London
+17-03-2024,PA005,London,Tokyo
+17-03-2024,PA010,Tokyo,New York
+17-03-2024,PA012,Tokyo,Perth
+18-03-2024,PA001,London,New York
+18-03-2024,PA002,New York,London
+18-03-2024,PA003,London,Perth
+18-03-2024,PA004,Perth,London
+18-03-2024,PA006,Tokyo,London
+18-03-2024,PA007,New York,Perth
+18-03-2024,PA008,Perth,New York
+18-03-2024,PA012,Tokyo,Perth
+19-03-2024,PA001,London,New York
+19-03-2024,PA003,London,Perth
+19-03-2024,PA008,Perth,New York
+19-03-2024,PA009,New York,Tokyo
+19-03-2024,PA012,Tokyo,Perth
+20-03-2024,PA003,London,Perth
+20-03-2024,PA005,London,Tokyo
+20-03-2024,PA006,Tokyo,London
+20-03-2024,PA007,New York,Perth
+20-03-2024,PA008,Perth,New York
+20-03-2024,PA009,New York,Tokyo
+21-03-2024,PA001,London,New York
+21-03-2024,PA002,New York,London
+21-03-2024,PA003,London,Perth
+21-03-2024,PA004,Perth,London
+21-03-2024,PA005,London,Tokyo
+21-03-2024,PA009,New York,Tokyo
+21-03-2024,PA010,Tokyo,New York
+21-03-2024,PA011,Perth,Tokyo
+22-03-2024,PA003,London,Perth
+22-03-2024,PA004,Perth,London
+22-03-2024,PA005,London,Tokyo
+22-03-2024,PA006,Tokyo,London
+22-03-2024,PA007,New York,Perth
+22-03-2024,PA008,Perth,New York
+22-03-2024,PA010,Tokyo,New York
+22-03-2024,PA011,Perth,Tokyo
+22-03-2024,PA012,Tokyo,Perth
+23-03-2024,PA001,London,New York
+23-03-2024,PA002,New York,London
+23-03-2024,PA003,London,Perth
+23-03-2024,PA005,London,Tokyo
+23-03-2024,PA006,Tokyo,London
+23-03-2024,PA009,New York,Tokyo
+23-03-2024,PA010,Tokyo,New York
+23-03-2024,PA011,Perth,Tokyo
+23-03-2024,PA012,Tokyo,Perth
+24-03-2024,PA003,London,Perth
+24-03-2024,PA004,Perth,London
+24-03-2024,PA006,Tokyo,London
+24-03-2024,PA007,New York,Perth
+24-03-2024,PA010,Tokyo,New York
+25-03-2024,PA001,London,New York
+25-03-2024,PA002,New York,London
+25-03-2024,PA004,Perth,London
+25-03-2024,PA007,New York,Perth
+25-03-2024,PA009,New York,Tokyo
+25-03-2024,PA010,Tokyo,New York
+25-03-2024,PA011,Perth,Tokyo
+26-03-2024,PA002,New York,London
+26-03-2024,PA003,London,Perth
+26-03-2024,PA005,London,Tokyo
+26-03-2024,PA008,Perth,New York
+26-03-2024,PA010,Tokyo,New York
+26-03-2024,PA011,Perth,Tokyo
+26-03-2024,PA012,Tokyo,Perth
+27-03-2024,PA001,London,New York
+27-03-2024,PA003,London,Perth
+27-03-2024,PA004,Perth,London
+27-03-2024,PA005,London,Tokyo
+27-03-2024,PA006,Tokyo,London
+27-03-2024,PA008,Perth,New York
+27-03-2024,PA010,Tokyo,New York
+27-03-2024,PA011,Perth,Tokyo
+28-03-2024,PA001,London,New York
+28-03-2024,PA010,Tokyo,New York
+29-03-2024,PA001,London,New York
+29-03-2024,PA002,New York,London
+29-03-2024,PA003,London,Perth
+29-03-2024,PA004,Perth,London
+29-03-2024,PA005,London,Tokyo
+29-03-2024,PA007,New York,Perth
+29-03-2024,PA008,Perth,New York
+29-03-2024,PA009,New York,Tokyo
+29-03-2024,PA012,Tokyo,Perth
+30-03-2024,PA001,London,New York
+30-03-2024,PA003,London,Perth
+30-03-2024,PA004,Perth,London
+30-03-2024,PA012,Tokyo,Perth
+31-03-2024,PA001,London,New York
+31-03-2024,PA002,New York,London
+31-03-2024,PA004,Perth,London
+31-03-2024,PA006,Tokyo,London
+31-03-2024,PA007,New York,Perth
+31-03-2024,PA008,Perth,New York
+31-03-2024,PA010,Tokyo,New York
+31-03-2024,PA012,Tokyo,Perth
+01-04-2024,PA001,London,New York
+01-04-2024,PA004,Perth,London
+01-04-2024,PA005,London,Tokyo
+01-04-2024,PA007,New York,Perth
+01-04-2024,PA008,Perth,New York
+01-04-2024,PA009,New York,Tokyo
+01-04-2024,PA011,Perth,Tokyo
+02-04-2024,PA002,New York,London
+02-04-2024,PA003,London,Perth
+02-04-2024,PA004,Perth,London
+02-04-2024,PA007,New York,Perth
+02-04-2024,PA008,Perth,New York
+02-04-2024,PA009,New York,Tokyo
+02-04-2024,PA010,Tokyo,New York
+02-04-2024,PA011,Perth,Tokyo
+02-04-2024,PA012,Tokyo,Perth
+03-04-2024,PA001,London,New York
+03-04-2024,PA003,London,Perth
+03-04-2024,PA004,Perth,London
+03-04-2024,PA006,Tokyo,London
+03-04-2024,PA007,New York,Perth
+03-04-2024,PA008,Perth,New York
+03-04-2024,PA009,New York,Tokyo
+03-04-2024,PA010,Tokyo,New York
+04-04-2024,PA002,New York,London
+04-04-2024,PA003,London,Perth
+04-04-2024,PA005,London,Tokyo
+04-04-2024,PA007,New York,Perth
+04-04-2024,PA008,Perth,New York
+04-04-2024,PA009,New York,Tokyo
+04-04-2024,PA010,Tokyo,New York
+04-04-2024,PA011,Perth,Tokyo
+04-04-2024,PA012,Tokyo,Perth
+05-04-2024,PA001,London,New York
+05-04-2024,PA002,New York,London
+05-04-2024,PA003,London,Perth
+05-04-2024,PA005,London,Tokyo
+05-04-2024,PA011,Perth,Tokyo
+05-04-2024,PA012,Tokyo,Perth
+06-04-2024,PA002,New York,London
+06-04-2024,PA004,Perth,London
+06-04-2024,PA005,London,Tokyo
+06-04-2024,PA008,Perth,New York
+06-04-2024,PA009,New York,Tokyo
+06-04-2024,PA010,Tokyo,New York
+06-04-2024,PA011,Perth,Tokyo
+06-04-2024,PA012,Tokyo,Perth
+07-04-2024,PA002,New York,London
+07-04-2024,PA003,London,Perth
+07-04-2024,PA005,London,Tokyo
+07-04-2024,PA006,Tokyo,London
+07-04-2024,PA008,Perth,New York
+07-04-2024,PA010,Tokyo,New York
+07-04-2024,PA011,Perth,Tokyo
+08-04-2024,PA001,London,New York
+08-04-2024,PA002,New York,London
+08-04-2024,PA003,London,Perth
+08-04-2024,PA004,Perth,London
+08-04-2024,PA006,Tokyo,London
+08-04-2024,PA007,New York,Perth
+08-04-2024,PA009,New York,Tokyo
+08-04-2024,PA010,Tokyo,New York
+08-04-2024,PA011,Perth,Tokyo
+09-04-2024,PA001,London,New York
+09-04-2024,PA002,New York,London
+09-04-2024,PA003,London,Perth
+09-04-2024,PA005,London,Tokyo
+09-04-2024,PA006,Tokyo,London
+09-04-2024,PA007,New York,Perth
+09-04-2024,PA008,Perth,New York
+09-04-2024,PA009,New York,Tokyo
+10-04-2024,PA001,London,New York
+10-04-2024,PA003,London,Perth
+10-04-2024,PA007,New York,Perth
+10-04-2024,PA011,Perth,Tokyo
+11-04-2024,PA005,London,Tokyo
+11-04-2024,PA006,Tokyo,London
+11-04-2024,PA007,New York,Perth
+11-04-2024,PA008,Perth,New York
+11-04-2024,PA011,Perth,Tokyo
+11-04-2024,PA012,Tokyo,Perth
+12-04-2024,PA001,London,New York
+12-04-2024,PA002,New York,London
+12-04-2024,PA004,Perth,London
+12-04-2024,PA005,London,Tokyo
+12-04-2024,PA007,New York,Perth
+12-04-2024,PA009,New York,Tokyo
+12-04-2024,PA010,Tokyo,New York
+12-04-2024,PA012,Tokyo,Perth
+13-04-2024,PA001,London,New York
+13-04-2024,PA002,New York,London
+13-04-2024,PA003,London,Perth
+13-04-2024,PA004,Perth,London
+13-04-2024,PA008,Perth,New York
+13-04-2024,PA009,New York,Tokyo
+13-04-2024,PA010,Tokyo,New York
+13-04-2024,PA011,Perth,Tokyo
+14-04-2024,PA002,New York,London
+14-04-2024,PA004,Perth,London
+14-04-2024,PA005,London,Tokyo
+14-04-2024,PA007,New York,Perth
+14-04-2024,PA011,Perth,Tokyo
+15-04-2024,PA002,New York,London
+15-04-2024,PA003,London,Perth
+15-04-2024,PA004,Perth,London
+15-04-2024,PA005,London,Tokyo
+15-04-2024,PA006,Tokyo,London
+15-04-2024,PA007,New York,Perth
+15-04-2024,PA008,Perth,New York
+15-04-2024,PA010,Tokyo,New York
+15-04-2024,PA011,Perth,Tokyo
+16-04-2024,PA001,London,New York
+16-04-2024,PA003,London,Perth
+16-04-2024,PA006,Tokyo,London
+16-04-2024,PA007,New York,Perth
+16-04-2024,PA008,Perth,New York
+16-04-2024,PA009,New York,Tokyo
+16-04-2024,PA010,Tokyo,New York
+16-04-2024,PA011,Perth,Tokyo
+16-04-2024,PA012,Tokyo,Perth
+17-04-2024,PA002,New York,London
+17-04-2024,PA004,Perth,London
+17-04-2024,PA006,Tokyo,London
+17-04-2024,PA007,New York,Perth
+17-04-2024,PA009,New York,Tokyo
+17-04-2024,PA011,Perth,Tokyo
+18-04-2024,PA002,New York,London
+18-04-2024,PA003,London,Perth
+18-04-2024,PA004,Perth,London
+18-04-2024,PA005,London,Tokyo
+18-04-2024,PA006,Tokyo,London
+18-04-2024,PA007,New York,Perth
+18-04-2024,PA009,New York,Tokyo
+18-04-2024,PA011,Perth,Tokyo
+19-04-2024,PA001,London,New York
+19-04-2024,PA002,New York,London
+19-04-2024,PA003,London,Perth
+19-04-2024,PA004,Perth,London
+19-04-2024,PA006,Tokyo,London
+19-04-2024,PA007,New York,Perth
+19-04-2024,PA009,New York,Tokyo
+19-04-2024,PA010,Tokyo,New York
+19-04-2024,PA011,Perth,Tokyo
+19-04-2024,PA012,Tokyo,Perth
+20-04-2024,PA002,New York,London
+20-04-2024,PA003,London,Perth
+20-04-2024,PA006,Tokyo,London
+20-04-2024,PA009,New York,Tokyo
+20-04-2024,PA011,Perth,Tokyo
+20-04-2024,PA012,Tokyo,Perth
+21-04-2024,PA001,London,New York
+21-04-2024,PA003,London,Perth
+21-04-2024,PA004,Perth,London
+21-04-2024,PA006,Tokyo,London
+21-04-2024,PA009,New York,Tokyo
+21-04-2024,PA012,Tokyo,Perth
+22-04-2024,PA007,New York,Perth
+22-04-2024,PA008,Perth,New York
+22-04-2024,PA011,Perth,Tokyo
+23-04-2024,PA001,London,New York
+23-04-2024,PA003,London,Perth
+23-04-2024,PA004,Perth,London
+23-04-2024,PA006,Tokyo,London
+23-04-2024,PA008,Perth,New York
+23-04-2024,PA009,New York,Tokyo
+24-04-2024,PA001,London,New York
+24-04-2024,PA005,London,Tokyo
+24-04-2024,PA006,Tokyo,London
+24-04-2024,PA007,New York,Perth
+24-04-2024,PA008,Perth,New York
+24-04-2024,PA010,Tokyo,New York
+24-04-2024,PA011,Perth,Tokyo
+24-04-2024,PA012,Tokyo,Perth
+25-04-2024,PA001,London,New York
+25-04-2024,PA003,London,Perth
+25-04-2024,PA004,Perth,London
+25-04-2024,PA005,London,Tokyo
+25-04-2024,PA006,Tokyo,London
+25-04-2024,PA007,New York,Perth
+25-04-2024,PA008,Perth,New York
+25-04-2024,PA009,New York,Tokyo
+25-04-2024,PA010,Tokyo,New York
+25-04-2024,PA011,Perth,Tokyo
+26-04-2024,PA001,London,New York
+26-04-2024,PA002,New York,London
+26-04-2024,PA004,Perth,London
+26-04-2024,PA005,London,Tokyo
+26-04-2024,PA010,Tokyo,New York
+26-04-2024,PA012,Tokyo,Perth
+27-04-2024,PA001,London,New York
+27-04-2024,PA003,London,Perth
+27-04-2024,PA005,London,Tokyo
+27-04-2024,PA006,Tokyo,London
+27-04-2024,PA007,New York,Perth
+27-04-2024,PA011,Perth,Tokyo
+27-04-2024,PA012,Tokyo,Perth
+28-04-2024,PA002,New York,London
+28-04-2024,PA003,London,Perth
+28-04-2024,PA004,Perth,London
+28-04-2024,PA006,Tokyo,London
+28-04-2024,PA010,Tokyo,New York
+29-04-2024,PA002,New York,London
+29-04-2024,PA005,London,Tokyo
+29-04-2024,PA006,Tokyo,London
+29-04-2024,PA007,New York,Perth
+29-04-2024,PA009,New York,Tokyo
+29-04-2024,PA011,Perth,Tokyo
+29-04-2024,PA012,Tokyo,Perth
+30-04-2024,PA001,London,New York
+30-04-2024,PA004,Perth,London
+30-04-2024,PA008,Perth,New York
+30-04-2024,PA009,New York,Tokyo
+30-04-2024,PA010,Tokyo,New York
+30-04-2024,PA011,Perth,Tokyo
+30-04-2024,PA012,Tokyo,Perth
+01-05-2024,PA002,New York,London
+01-05-2024,PA004,Perth,London
+01-05-2024,PA005,London,Tokyo
+01-05-2024,PA006,Tokyo,London
+01-05-2024,PA008,Perth,New York
+01-05-2024,PA009,New York,Tokyo
+01-05-2024,PA010,Tokyo,New York
+01-05-2024,PA011,Perth,Tokyo
+01-05-2024,PA012,Tokyo,Perth
+02-05-2024,PA002,New York,London
+02-05-2024,PA003,London,Perth
+02-05-2024,PA004,Perth,London
+02-05-2024,PA008,Perth,New York
+02-05-2024,PA009,New York,Tokyo
+03-05-2024,PA001,London,New York
+03-05-2024,PA002,New York,London
+03-05-2024,PA003,London,Perth
+03-05-2024,PA005,London,Tokyo
+03-05-2024,PA006,Tokyo,London
+03-05-2024,PA008,Perth,New York
+03-05-2024,PA009,New York,Tokyo
+03-05-2024,PA010,Tokyo,New York
+03-05-2024,PA011,Perth,Tokyo
+03-05-2024,PA012,Tokyo,Perth
+04-05-2024,PA004,Perth,London
+04-05-2024,PA005,London,Tokyo
+04-05-2024,PA007,New York,Perth
+04-05-2024,PA012,Tokyo,Perth
+05-05-2024,PA002,New York,London
+05-05-2024,PA004,Perth,London
+05-05-2024,PA006,Tokyo,London
+05-05-2024,PA007,New York,Perth
+05-05-2024,PA008,Perth,New York
+05-05-2024,PA009,New York,Tokyo
+05-05-2024,PA012,Tokyo,Perth
+06-05-2024,PA002,New York,London
+06-05-2024,PA004,Perth,London
+06-05-2024,PA005,London,Tokyo
+06-05-2024,PA006,Tokyo,London
+06-05-2024,PA007,New York,Perth
+06-05-2024,PA011,Perth,Tokyo
+07-05-2024,PA002,New York,London
+07-05-2024,PA004,Perth,London
+07-05-2024,PA007,New York,Perth
+07-05-2024,PA008,Perth,New York
+07-05-2024,PA010,Tokyo,New York
+07-05-2024,PA012,Tokyo,Perth
+08-05-2024,PA001,London,New York
+08-05-2024,PA003,London,Perth
+08-05-2024,PA005,London,Tokyo
+08-05-2024,PA006,Tokyo,London
+08-05-2024,PA007,New York,Perth
+09-05-2024,PA001,London,New York
+09-05-2024,PA002,New York,London
+09-05-2024,PA003,London,Perth
+09-05-2024,PA004,Perth,London
+09-05-2024,PA007,New York,Perth
+09-05-2024,PA010,Tokyo,New York
+09-05-2024,PA011,Perth,Tokyo
+09-05-2024,PA012,Tokyo,Perth
+10-05-2024,PA002,New York,London
+10-05-2024,PA003,London,Perth
+10-05-2024,PA005,London,Tokyo
+10-05-2024,PA006,Tokyo,London
+10-05-2024,PA008,Perth,New York
+10-05-2024,PA009,New York,Tokyo
+10-05-2024,PA010,Tokyo,New York
+10-05-2024,PA011,Perth,Tokyo
+10-05-2024,PA012,Tokyo,Perth
+11-05-2024,PA003,London,Perth
+11-05-2024,PA005,London,Tokyo
+11-05-2024,PA006,Tokyo,London
+11-05-2024,PA009,New York,Tokyo
+11-05-2024,PA011,Perth,Tokyo
+11-05-2024,PA012,Tokyo,Perth
+12-05-2024,PA001,London,New York
+12-05-2024,PA002,New York,London
+12-05-2024,PA003,London,Perth
+12-05-2024,PA004,Perth,London
+12-05-2024,PA005,London,Tokyo
+12-05-2024,PA006,Tokyo,London
+12-05-2024,PA012,Tokyo,Perth
+13-05-2024,PA004,Perth,London
+13-05-2024,PA006,Tokyo,London
+13-05-2024,PA007,New York,Perth
+13-05-2024,PA009,New York,Tokyo
+13-05-2024,PA010,Tokyo,New York
+14-05-2024,PA001,London,New York
+14-05-2024,PA002,New York,London
+14-05-2024,PA003,London,Perth
+14-05-2024,PA005,London,Tokyo
+14-05-2024,PA006,Tokyo,London
+14-05-2024,PA007,New York,Perth
+14-05-2024,PA008,Perth,New York
+14-05-2024,PA009,New York,Tokyo
+14-05-2024,PA010,Tokyo,New York
+14-05-2024,PA011,Perth,Tokyo
+14-05-2024,PA012,Tokyo,Perth
+15-05-2024,PA001,London,New York
+15-05-2024,PA003,London,Perth
+15-05-2024,PA004,Perth,London
+15-05-2024,PA007,New York,Perth
+15-05-2024,PA008,Perth,New York
+15-05-2024,PA010,Tokyo,New York
+15-05-2024,PA011,Perth,Tokyo
+16-05-2024,PA001,London,New York
+16-05-2024,PA003,London,Perth
+16-05-2024,PA004,Perth,London
+16-05-2024,PA005,London,Tokyo
+16-05-2024,PA006,Tokyo,London
+16-05-2024,PA007,New York,Perth
+16-05-2024,PA009,New York,Tokyo
+16-05-2024,PA011,Perth,Tokyo
+17-05-2024,PA001,London,New York
+17-05-2024,PA002,New York,London
+17-05-2024,PA003,London,Perth
+17-05-2024,PA005,London,Tokyo
+17-05-2024,PA006,Tokyo,London
+17-05-2024,PA009,New York,Tokyo
+18-05-2024,PA002,New York,London
+18-05-2024,PA004,Perth,London
+18-05-2024,PA008,Perth,New York
+18-05-2024,PA009,New York,Tokyo
+18-05-2024,PA012,Tokyo,Perth
+19-05-2024,PA001,London,New York
+19-05-2024,PA002,New York,London
+19-05-2024,PA004,Perth,London
+19-05-2024,PA005,London,Tokyo
+19-05-2024,PA006,Tokyo,London
+19-05-2024,PA008,Perth,New York
+19-05-2024,PA009,New York,Tokyo
+19-05-2024,PA010,Tokyo,New York
+19-05-2024,PA011,Perth,Tokyo
+20-05-2024,PA001,London,New York
+20-05-2024,PA002,New York,London
+20-05-2024,PA003,London,Perth
+20-05-2024,PA004,Perth,London
+20-05-2024,PA006,Tokyo,London
+20-05-2024,PA008,Perth,New York
+20-05-2024,PA009,New York,Tokyo
+20-05-2024,PA012,Tokyo,Perth
+21-05-2024,PA001,London,New York
+21-05-2024,PA002,New York,London
+21-05-2024,PA006,Tokyo,London
+21-05-2024,PA010,Tokyo,New York
+21-05-2024,PA012,Tokyo,Perth
+22-05-2024,PA001,London,New York
+22-05-2024,PA003,London,Perth
+22-05-2024,PA004,Perth,London
+22-05-2024,PA006,Tokyo,London
+22-05-2024,PA007,New York,Perth
+22-05-2024,PA008,Perth,New York
+22-05-2024,PA009,New York,Tokyo
+22-05-2024,PA010,Tokyo,New York
+22-05-2024,PA012,Tokyo,Perth
+23-05-2024,PA003,London,Perth
+23-05-2024,PA004,Perth,London
+23-05-2024,PA006,Tokyo,London
+23-05-2024,PA007,New York,Perth
+23-05-2024,PA010,Tokyo,New York
+23-05-2024,PA011,Perth,Tokyo
+23-05-2024,PA012,Tokyo,Perth
+24-05-2024,PA008,Perth,New York
+24-05-2024,PA009,New York,Tokyo
+24-05-2024,PA012,Tokyo,Perth
+25-05-2024,PA001,London,New York
+25-05-2024,PA002,New York,London
+25-05-2024,PA003,London,Perth
+25-05-2024,PA004,Perth,London
+25-05-2024,PA006,Tokyo,London
+25-05-2024,PA007,New York,Perth
+25-05-2024,PA010,Tokyo,New York
+25-05-2024,PA012,Tokyo,Perth
+26-05-2024,PA002,New York,London
+26-05-2024,PA003,London,Perth
+26-05-2024,PA005,London,Tokyo
+26-05-2024,PA006,Tokyo,London
+26-05-2024,PA008,Perth,New York
+26-05-2024,PA010,Tokyo,New York
+26-05-2024,PA011,Perth,Tokyo
+26-05-2024,PA012,Tokyo,Perth
+27-05-2024,PA004,Perth,London
+27-05-2024,PA005,London,Tokyo
+27-05-2024,PA006,Tokyo,London
+27-05-2024,PA007,New York,Perth
+27-05-2024,PA009,New York,Tokyo
+27-05-2024,PA010,Tokyo,New York
+28-05-2024,PA003,London,Perth
+28-05-2024,PA005,London,Tokyo
+28-05-2024,PA006,Tokyo,London
+28-05-2024,PA007,New York,Perth
+28-05-2024,PA008,Perth,New York
+28-05-2024,PA009,New York,Tokyo
+28-05-2024,PA010,Tokyo,New York
+29-05-2024,PA003,London,Perth
+29-05-2024,PA005,London,Tokyo
+29-05-2024,PA006,Tokyo,London
+29-05-2024,PA007,New York,Perth
+29-05-2024,PA008,Perth,New York
+29-05-2024,PA009,New York,Tokyo
+29-05-2024,PA010,Tokyo,New York
+30-05-2024,PA001,London,New York
+30-05-2024,PA003,London,Perth
+30-05-2024,PA007,New York,Perth
+30-05-2024,PA008,Perth,New York
+30-05-2024,PA009,New York,Tokyo
+31-05-2024,PA001,London,New York
+31-05-2024,PA002,New York,London
+31-05-2024,PA004,Perth,London
+31-05-2024,PA007,New York,Perth
+31-05-2024,PA008,Perth,New York
+31-05-2024,PA009,New York,Tokyo
+01-06-2024,PA001,London,New York
+01-06-2024,PA004,Perth,London
+01-06-2024,PA006,Tokyo,London
+01-06-2024,PA009,New York,Tokyo
+01-06-2024,PA011,Perth,Tokyo
+01-06-2024,PA012,Tokyo,Perth
+02-06-2024,PA001,London,New York
+02-06-2024,PA002,New York,London
+02-06-2024,PA003,London,Perth
+02-06-2024,PA006,Tokyo,London
+02-06-2024,PA007,New York,Perth
+02-06-2024,PA010,Tokyo,New York
+02-06-2024,PA011,Perth,Tokyo
+03-06-2024,PA001,London,New York
+03-06-2024,PA002,New York,London
+03-06-2024,PA003,London,Perth
+03-06-2024,PA007,New York,Perth
+03-06-2024,PA011,Perth,Tokyo
+04-06-2024,PA001,London,New York
+04-06-2024,PA002,New York,London
+04-06-2024,PA005,London,Tokyo
+04-06-2024,PA006,Tokyo,London
+04-06-2024,PA007,New York,Perth
+04-06-2024,PA009,New York,Tokyo
+04-06-2024,PA010,Tokyo,New York
+04-06-2024,PA012,Tokyo,Perth
+05-06-2024,PA001,London,New York
+05-06-2024,PA002,New York,London
+05-06-2024,PA005,London,Tokyo
+05-06-2024,PA006,Tokyo,London
+05-06-2024,PA008,Perth,New York
+05-06-2024,PA009,New York,Tokyo
+05-06-2024,PA010,Tokyo,New York
+05-06-2024,PA012,Tokyo,Perth
+06-06-2024,PA001,London,New York
+06-06-2024,PA004,Perth,London
+06-06-2024,PA007,New York,Perth
+06-06-2024,PA011,Perth,Tokyo
+07-06-2024,PA005,London,Tokyo
+07-06-2024,PA007,New York,Perth
+07-06-2024,PA008,Perth,New York
+07-06-2024,PA009,New York,Tokyo
+07-06-2024,PA010,Tokyo,New York
+07-06-2024,PA011,Perth,Tokyo
+07-06-2024,PA012,Tokyo,Perth
+08-06-2024,PA001,London,New York
+08-06-2024,PA002,New York,London
+08-06-2024,PA003,London,Perth
+08-06-2024,PA006,Tokyo,London
+08-06-2024,PA007,New York,Perth
+08-06-2024,PA009,New York,Tokyo
+09-06-2024,PA001,London,New York
+09-06-2024,PA002,New York,London
+09-06-2024,PA003,London,Perth
+09-06-2024,PA007,New York,Perth
+09-06-2024,PA010,Tokyo,New York
+09-06-2024,PA011,Perth,Tokyo
+10-06-2024,PA001,London,New York
+10-06-2024,PA002,New York,London
+10-06-2024,PA004,Perth,London
+10-06-2024,PA006,Tokyo,London
+10-06-2024,PA009,New York,Tokyo
+10-06-2024,PA010,Tokyo,New York
+10-06-2024,PA011,Perth,Tokyo
+11-06-2024,PA001,London,New York
+11-06-2024,PA005,London,Tokyo
+11-06-2024,PA006,Tokyo,London
+11-06-2024,PA009,New York,Tokyo
+11-06-2024,PA011,Perth,Tokyo
+11-06-2024,PA012,Tokyo,Perth
+12-06-2024,PA001,London,New York
+12-06-2024,PA002,New York,London
+12-06-2024,PA005,London,Tokyo
+12-06-2024,PA006,Tokyo,London
+12-06-2024,PA007,New York,Perth
+12-06-2024,PA008,Perth,New York
+12-06-2024,PA009,New York,Tokyo
+12-06-2024,PA010,Tokyo,New York
+12-06-2024,PA012,Tokyo,Perth
+13-06-2024,PA001,London,New York
+13-06-2024,PA003,London,Perth
+13-06-2024,PA004,Perth,London
+13-06-2024,PA005,London,Tokyo
+13-06-2024,PA006,Tokyo,London
+13-06-2024,PA007,New York,Perth
+13-06-2024,PA008,Perth,New York
+13-06-2024,PA009,New York,Tokyo
+14-06-2024,PA003,London,Perth
+14-06-2024,PA004,Perth,London
+14-06-2024,PA005,London,Tokyo
+14-06-2024,PA006,Tokyo,London
+14-06-2024,PA008,Perth,New York
+14-06-2024,PA009,New York,Tokyo
+14-06-2024,PA010,Tokyo,New York
+14-06-2024,PA011,Perth,Tokyo
+14-06-2024,PA012,Tokyo,Perth
+15-06-2024,PA001,London,New York
+15-06-2024,PA003,London,Perth
+15-06-2024,PA004,Perth,London
+15-06-2024,PA005,London,Tokyo
+15-06-2024,PA008,Perth,New York
+15-06-2024,PA009,New York,Tokyo
+15-06-2024,PA010,Tokyo,New York
+15-06-2024,PA011,Perth,Tokyo
+15-06-2024,PA012,Tokyo,Perth
+16-06-2024,PA001,London,New York
+16-06-2024,PA005,London,Tokyo
+16-06-2024,PA008,Perth,New York
+16-06-2024,PA011,Perth,Tokyo
+16-06-2024,PA012,Tokyo,Perth
+17-06-2024,PA001,London,New York
+17-06-2024,PA004,Perth,London
+17-06-2024,PA005,London,Tokyo
+17-06-2024,PA006,Tokyo,London
+17-06-2024,PA008,Perth,New York
+17-06-2024,PA009,New York,Tokyo
+17-06-2024,PA010,Tokyo,New York
+18-06-2024,PA001,London,New York
+18-06-2024,PA004,Perth,London
+18-06-2024,PA006,Tokyo,London
+18-06-2024,PA010,Tokyo,New York
+18-06-2024,PA011,Perth,Tokyo
+19-06-2024,PA003,London,Perth
+19-06-2024,PA006,Tokyo,London
+19-06-2024,PA007,New York,Perth
+19-06-2024,PA009,New York,Tokyo
+19-06-2024,PA012,Tokyo,Perth
+20-06-2024,PA001,London,New York
+20-06-2024,PA002,New York,London
+20-06-2024,PA005,London,Tokyo
+20-06-2024,PA006,Tokyo,London
+20-06-2024,PA008,Perth,New York
+20-06-2024,PA011,Perth,Tokyo
+20-06-2024,PA012,Tokyo,Perth
+21-06-2024,PA004,Perth,London
+21-06-2024,PA005,London,Tokyo
+21-06-2024,PA007,New York,Perth
+21-06-2024,PA008,Perth,New York
+21-06-2024,PA009,New York,Tokyo
+21-06-2024,PA011,Perth,Tokyo
+22-06-2024,PA002,New York,London
+22-06-2024,PA003,London,Perth
+22-06-2024,PA007,New York,Perth
+22-06-2024,PA008,Perth,New York
+22-06-2024,PA011,Perth,Tokyo
+23-06-2024,PA001,London,New York
+23-06-2024,PA004,Perth,London
+23-06-2024,PA006,Tokyo,London
+23-06-2024,PA007,New York,Perth
+23-06-2024,PA008,Perth,New York
+23-06-2024,PA010,Tokyo,New York
+24-06-2024,PA001,London,New York
+24-06-2024,PA004,Perth,London
+24-06-2024,PA006,Tokyo,London
+24-06-2024,PA010,Tokyo,New York
+24-06-2024,PA012,Tokyo,Perth
+25-06-2024,PA005,London,Tokyo
+25-06-2024,PA007,New York,Perth
+25-06-2024,PA009,New York,Tokyo
+25-06-2024,PA012,Tokyo,Perth
+26-06-2024,PA001,London,New York
+26-06-2024,PA002,New York,London
+26-06-2024,PA003,London,Perth
+26-06-2024,PA004,Perth,London
+26-06-2024,PA006,Tokyo,London
+26-06-2024,PA008,Perth,New York
+26-06-2024,PA010,Tokyo,New York
+26-06-2024,PA011,Perth,Tokyo
+27-06-2024,PA002,New York,London
+27-06-2024,PA004,Perth,London
+27-06-2024,PA006,Tokyo,London
+27-06-2024,PA007,New York,Perth
+27-06-2024,PA008,Perth,New York
+27-06-2024,PA010,Tokyo,New York
+27-06-2024,PA011,Perth,Tokyo
+27-06-2024,PA012,Tokyo,Perth
+28-06-2024,PA001,London,New York
+28-06-2024,PA002,New York,London
+28-06-2024,PA006,Tokyo,London
+28-06-2024,PA009,New York,Tokyo
+28-06-2024,PA010,Tokyo,New York
+28-06-2024,PA012,Tokyo,Perth
+29-06-2024,PA002,New York,London
+29-06-2024,PA003,London,Perth
+29-06-2024,PA005,London,Tokyo
+29-06-2024,PA006,Tokyo,London
+29-06-2024,PA007,New York,Perth
+29-06-2024,PA009,New York,Tokyo
+30-06-2024,PA002,New York,London
+30-06-2024,PA003,London,Perth
+30-06-2024,PA006,Tokyo,London
+30-06-2024,PA007,New York,Perth
+30-06-2024,PA008,Perth,New York
+30-06-2024,PA009,New York,Tokyo
+30-06-2024,PA011,Perth,Tokyo
+01-07-2024,PA003,London,Perth
+01-07-2024,PA004,Perth,London
+01-07-2024,PA006,Tokyo,London
+01-07-2024,PA009,New York,Tokyo
+01-07-2024,PA011,Perth,Tokyo
+01-07-2024,PA012,Tokyo,Perth
+02-07-2024,PA001,London,New York
+02-07-2024,PA002,New York,London
+02-07-2024,PA003,London,Perth
+02-07-2024,PA004,Perth,London
+02-07-2024,PA006,Tokyo,London
+02-07-2024,PA007,New York,Perth
+02-07-2024,PA009,New York,Tokyo
+02-07-2024,PA011,Perth,Tokyo
+03-07-2024,PA003,London,Perth
+03-07-2024,PA004,Perth,London
+03-07-2024,PA005,London,Tokyo
+03-07-2024,PA006,Tokyo,London
+03-07-2024,PA007,New York,Perth
+03-07-2024,PA008,Perth,New York
+03-07-2024,PA012,Tokyo,Perth
+04-07-2024,PA001,London,New York
+04-07-2024,PA003,London,Perth
+04-07-2024,PA004,Perth,London
+04-07-2024,PA005,London,Tokyo
+04-07-2024,PA006,Tokyo,London
+04-07-2024,PA007,New York,Perth
+04-07-2024,PA008,Perth,New York
+04-07-2024,PA011,Perth,Tokyo
+04-07-2024,PA012,Tokyo,Perth
+05-07-2024,PA001,London,New York
+05-07-2024,PA002,New York,London
+05-07-2024,PA004,Perth,London
+05-07-2024,PA005,London,Tokyo
+05-07-2024,PA006,Tokyo,London
+05-07-2024,PA007,New York,Perth
+05-07-2024,PA010,Tokyo,New York
+05-07-2024,PA011,Perth,Tokyo
+06-07-2024,PA001,London,New York
+06-07-2024,PA003,London,Perth
+06-07-2024,PA004,Perth,London
+06-07-2024,PA007,New York,Perth
+06-07-2024,PA010,Tokyo,New York
+07-07-2024,PA001,London,New York
+07-07-2024,PA002,New York,London
+07-07-2024,PA003,London,Perth
+07-07-2024,PA004,Perth,London
+07-07-2024,PA005,London,Tokyo
+07-07-2024,PA008,Perth,New York
+07-07-2024,PA009,New York,Tokyo
+07-07-2024,PA011,Perth,Tokyo
+08-07-2024,PA002,New York,London
+08-07-2024,PA003,London,Perth
+08-07-2024,PA005,London,Tokyo
+08-07-2024,PA009,New York,Tokyo
+08-07-2024,PA012,Tokyo,Perth
+09-07-2024,PA001,London,New York
+09-07-2024,PA002,New York,London
+09-07-2024,PA005,London,Tokyo
+09-07-2024,PA006,Tokyo,London
+09-07-2024,PA009,New York,Tokyo
+09-07-2024,PA012,Tokyo,Perth
+10-07-2024,PA001,London,New York
+10-07-2024,PA004,Perth,London
+10-07-2024,PA005,London,Tokyo
+10-07-2024,PA007,New York,Perth
+10-07-2024,PA009,New York,Tokyo
+10-07-2024,PA010,Tokyo,New York
+10-07-2024,PA011,Perth,Tokyo
+10-07-2024,PA012,Tokyo,Perth
+11-07-2024,PA001,London,New York
+11-07-2024,PA002,New York,London
+11-07-2024,PA004,Perth,London
+11-07-2024,PA008,Perth,New York
+11-07-2024,PA009,New York,Tokyo
+11-07-2024,PA011,Perth,Tokyo
+12-07-2024,PA002,New York,London
+12-07-2024,PA004,Perth,London
+12-07-2024,PA007,New York,Perth
+12-07-2024,PA008,Perth,New York
+12-07-2024,PA009,New York,Tokyo
+12-07-2024,PA011,Perth,Tokyo
+12-07-2024,PA012,Tokyo,Perth
+13-07-2024,PA002,New York,London
+13-07-2024,PA003,London,Perth
+13-07-2024,PA005,London,Tokyo
+13-07-2024,PA006,Tokyo,London
+13-07-2024,PA010,Tokyo,New York
+13-07-2024,PA011,Perth,Tokyo
+14-07-2024,PA001,London,New York
+14-07-2024,PA005,London,Tokyo
+14-07-2024,PA006,Tokyo,London
+14-07-2024,PA007,New York,Perth
+14-07-2024,PA008,Perth,New York
+14-07-2024,PA009,New York,Tokyo
+15-07-2024,PA002,New York,London
+15-07-2024,PA003,London,Perth
+15-07-2024,PA004,Perth,London
+15-07-2024,PA006,Tokyo,London
+15-07-2024,PA007,New York,Perth
+15-07-2024,PA008,Perth,New York
+15-07-2024,PA009,New York,Tokyo
+15-07-2024,PA011,Perth,Tokyo
+15-07-2024,PA012,Tokyo,Perth
+16-07-2024,PA002,New York,London
+16-07-2024,PA003,London,Perth
+16-07-2024,PA004,Perth,London
+16-07-2024,PA005,London,Tokyo
+16-07-2024,PA006,Tokyo,London
+16-07-2024,PA009,New York,Tokyo
+16-07-2024,PA010,Tokyo,New York
+16-07-2024,PA011,Perth,Tokyo
+16-07-2024,PA012,Tokyo,Perth
+17-07-2024,PA001,London,New York
+17-07-2024,PA003,London,Perth
+17-07-2024,PA004,Perth,London
+17-07-2024,PA006,Tokyo,London
+17-07-2024,PA009,New York,Tokyo
+17-07-2024,PA012,Tokyo,Perth
+18-07-2024,PA002,New York,London
+18-07-2024,PA003,London,Perth
+18-07-2024,PA006,Tokyo,London
+18-07-2024,PA007,New York,Perth
+18-07-2024,PA008,Perth,New York
+18-07-2024,PA009,New York,Tokyo
+18-07-2024,PA010,Tokyo,New York
+18-07-2024,PA012,Tokyo,Perth
+19-07-2024,PA001,London,New York
+19-07-2024,PA002,New York,London
+19-07-2024,PA006,Tokyo,London
+19-07-2024,PA008,Perth,New York
+19-07-2024,PA011,Perth,Tokyo
+20-07-2024,PA001,London,New York
+20-07-2024,PA002,New York,London
+20-07-2024,PA003,London,Perth
+20-07-2024,PA004,Perth,London
+20-07-2024,PA006,Tokyo,London
+20-07-2024,PA007,New York,Perth
+20-07-2024,PA009,New York,Tokyo
+20-07-2024,PA010,Tokyo,New York
+20-07-2024,PA011,Perth,Tokyo
+20-07-2024,PA012,Tokyo,Perth
+21-07-2024,PA002,New York,London
+21-07-2024,PA007,New York,Perth
+21-07-2024,PA008,Perth,New York
+21-07-2024,PA009,New York,Tokyo
+21-07-2024,PA012,Tokyo,Perth
+22-07-2024,PA001,London,New York
+22-07-2024,PA002,New York,London
+22-07-2024,PA004,Perth,London
+22-07-2024,PA005,London,Tokyo
+22-07-2024,PA006,Tokyo,London
+22-07-2024,PA010,Tokyo,New York
+22-07-2024,PA011,Perth,Tokyo
+22-07-2024,PA012,Tokyo,Perth
+23-07-2024,PA001,London,New York
+23-07-2024,PA004,Perth,London
+23-07-2024,PA005,London,Tokyo
+23-07-2024,PA009,New York,Tokyo
+24-07-2024,PA001,London,New York
+24-07-2024,PA004,Perth,London
+24-07-2024,PA005,London,Tokyo
+24-07-2024,PA008,Perth,New York
+24-07-2024,PA009,New York,Tokyo
+24-07-2024,PA010,Tokyo,New York
+24-07-2024,PA011,Perth,Tokyo
+24-07-2024,PA012,Tokyo,Perth
+25-07-2024,PA002,New York,London
+25-07-2024,PA004,Perth,London
+25-07-2024,PA007,New York,Perth
+25-07-2024,PA008,Perth,New York
+25-07-2024,PA009,New York,Tokyo
+25-07-2024,PA010,Tokyo,New York
+25-07-2024,PA011,Perth,Tokyo
+25-07-2024,PA012,Tokyo,Perth
+26-07-2024,PA002,New York,London
+26-07-2024,PA003,London,Perth
+26-07-2024,PA004,Perth,London
+26-07-2024,PA005,London,Tokyo
+26-07-2024,PA006,Tokyo,London
+26-07-2024,PA007,New York,Perth
+26-07-2024,PA008,Perth,New York
+26-07-2024,PA009,New York,Tokyo
+26-07-2024,PA012,Tokyo,Perth
+27-07-2024,PA003,London,Perth
+27-07-2024,PA004,Perth,London
+27-07-2024,PA005,London,Tokyo
+27-07-2024,PA006,Tokyo,London
+27-07-2024,PA007,New York,Perth
+27-07-2024,PA009,New York,Tokyo
+27-07-2024,PA011,Perth,Tokyo
+27-07-2024,PA012,Tokyo,Perth
+28-07-2024,PA001,London,New York
+28-07-2024,PA002,New York,London
+28-07-2024,PA003,London,Perth
+28-07-2024,PA004,Perth,London
+28-07-2024,PA005,London,Tokyo
+28-07-2024,PA006,Tokyo,London
+28-07-2024,PA007,New York,Perth
+28-07-2024,PA010,Tokyo,New York
+28-07-2024,PA012,Tokyo,Perth
+29-07-2024,PA001,London,New York
+29-07-2024,PA003,London,Perth
+29-07-2024,PA004,Perth,London
+29-07-2024,PA005,London,Tokyo
+29-07-2024,PA008,Perth,New York
+29-07-2024,PA011,Perth,Tokyo
+29-07-2024,PA012,Tokyo,Perth
+30-07-2024,PA001,London,New York
+30-07-2024,PA002,New York,London
+30-07-2024,PA003,London,Perth
+30-07-2024,PA004,Perth,London
+30-07-2024,PA005,London,Tokyo
+30-07-2024,PA006,Tokyo,London
+30-07-2024,PA007,New York,Perth
+30-07-2024,PA008,Perth,New York
+30-07-2024,PA010,Tokyo,New York
+30-07-2024,PA011,Perth,Tokyo
+31-07-2024,PA002,New York,London
+31-07-2024,PA003,London,Perth
+31-07-2024,PA004,Perth,London
+31-07-2024,PA005,London,Tokyo
+31-07-2024,PA006,Tokyo,London
+31-07-2024,PA009,New York,Tokyo
+31-07-2024,PA010,Tokyo,New York
+31-07-2024,PA012,Tokyo,Perth
+01-08-2024,PA002,New York,London
+01-08-2024,PA003,London,Perth
+01-08-2024,PA004,Perth,London
+01-08-2024,PA006,Tokyo,London
+01-08-2024,PA009,New York,Tokyo
+01-08-2024,PA011,Perth,Tokyo
+01-08-2024,PA012,Tokyo,Perth
+02-08-2024,PA001,London,New York
+02-08-2024,PA002,New York,London
+02-08-2024,PA003,London,Perth
+02-08-2024,PA004,Perth,London
+02-08-2024,PA005,London,Tokyo
+02-08-2024,PA006,Tokyo,London
+02-08-2024,PA008,Perth,New York
+02-08-2024,PA011,Perth,Tokyo
+03-08-2024,PA002,New York,London
+03-08-2024,PA003,London,Perth
+03-08-2024,PA005,London,Tokyo
+03-08-2024,PA008,Perth,New York
+03-08-2024,PA010,Tokyo,New York
+03-08-2024,PA011,Perth,Tokyo
+04-08-2024,PA001,London,New York
+04-08-2024,PA003,London,Perth
+04-08-2024,PA006,Tokyo,London
+04-08-2024,PA007,New York,Perth
+04-08-2024,PA008,Perth,New York
+04-08-2024,PA010,Tokyo,New York
+04-08-2024,PA011,Perth,Tokyo
+05-08-2024,PA002,New York,London
+05-08-2024,PA003,London,Perth
+05-08-2024,PA007,New York,Perth
+05-08-2024,PA009,New York,Tokyo
+05-08-2024,PA010,Tokyo,New York
+05-08-2024,PA012,Tokyo,Perth
+06-08-2024,PA002,New York,London
+06-08-2024,PA003,London,Perth
+06-08-2024,PA007,New York,Perth
+06-08-2024,PA009,New York,Tokyo
+06-08-2024,PA012,Tokyo,Perth
+07-08-2024,PA002,New York,London
+07-08-2024,PA003,London,Perth
+07-08-2024,PA004,Perth,London
+07-08-2024,PA005,London,Tokyo
+07-08-2024,PA006,Tokyo,London
+07-08-2024,PA009,New York,Tokyo
+07-08-2024,PA010,Tokyo,New York
+07-08-2024,PA011,Perth,Tokyo
+08-08-2024,PA001,London,New York
+08-08-2024,PA002,New York,London
+08-08-2024,PA004,Perth,London
+08-08-2024,PA008,Perth,New York
+08-08-2024,PA009,New York,Tokyo
+08-08-2024,PA011,Perth,Tokyo
+08-08-2024,PA012,Tokyo,Perth
+09-08-2024,PA001,London,New York
+09-08-2024,PA002,New York,London
+09-08-2024,PA003,London,Perth
+09-08-2024,PA004,Perth,London
+09-08-2024,PA006,Tokyo,London
+09-08-2024,PA007,New York,Perth
+09-08-2024,PA008,Perth,New York
+09-08-2024,PA009,New York,Tokyo
+09-08-2024,PA010,Tokyo,New York
+09-08-2024,PA011,Perth,Tokyo
+09-08-2024,PA012,Tokyo,Perth
+10-08-2024,PA003,London,Perth
+10-08-2024,PA004,Perth,London
+10-08-2024,PA005,London,Tokyo
+10-08-2024,PA006,Tokyo,London
+10-08-2024,PA007,New York,Perth
+10-08-2024,PA008,Perth,New York
+10-08-2024,PA011,Perth,Tokyo
+10-08-2024,PA012,Tokyo,Perth
+11-08-2024,PA006,Tokyo,London
+11-08-2024,PA008,Perth,New York
+11-08-2024,PA011,Perth,Tokyo
+11-08-2024,PA012,Tokyo,Perth
+12-08-2024,PA001,London,New York
+12-08-2024,PA003,London,Perth
+12-08-2024,PA004,Perth,London
+12-08-2024,PA005,London,Tokyo
+12-08-2024,PA006,Tokyo,London
+12-08-2024,PA008,Perth,New York
+12-08-2024,PA010,Tokyo,New York
+12-08-2024,PA011,Perth,Tokyo
+13-08-2024,PA002,New York,London
+13-08-2024,PA004,Perth,London
+13-08-2024,PA005,London,Tokyo
+13-08-2024,PA007,New York,Perth
+13-08-2024,PA008,Perth,New York
+13-08-2024,PA010,Tokyo,New York
+13-08-2024,PA011,Perth,Tokyo
+14-08-2024,PA001,London,New York
+14-08-2024,PA002,New York,London
+14-08-2024,PA004,Perth,London
+14-08-2024,PA005,London,Tokyo
+14-08-2024,PA006,Tokyo,London
+14-08-2024,PA007,New York,Perth
+14-08-2024,PA008,Perth,New York
+14-08-2024,PA009,New York,Tokyo
+14-08-2024,PA011,Perth,Tokyo
+15-08-2024,PA001,London,New York
+15-08-2024,PA002,New York,London
+15-08-2024,PA003,London,Perth
+15-08-2024,PA006,Tokyo,London
+15-08-2024,PA008,Perth,New York
+15-08-2024,PA009,New York,Tokyo
+15-08-2024,PA012,Tokyo,Perth
+16-08-2024,PA001,London,New York
+16-08-2024,PA002,New York,London
+16-08-2024,PA004,Perth,London
+16-08-2024,PA005,London,Tokyo
+16-08-2024,PA007,New York,Perth
+16-08-2024,PA008,Perth,New York
+16-08-2024,PA010,Tokyo,New York
+16-08-2024,PA011,Perth,Tokyo
+17-08-2024,PA001,London,New York
+17-08-2024,PA003,London,Perth
+17-08-2024,PA005,London,Tokyo
+17-08-2024,PA006,Tokyo,London
+17-08-2024,PA008,Perth,New York
+17-08-2024,PA009,New York,Tokyo
+17-08-2024,PA011,Perth,Tokyo
+18-08-2024,PA002,New York,London
+18-08-2024,PA004,Perth,London
+18-08-2024,PA005,London,Tokyo
+18-08-2024,PA008,Perth,New York
+18-08-2024,PA012,Tokyo,Perth
+19-08-2024,PA001,London,New York
+19-08-2024,PA002,New York,London
+19-08-2024,PA005,London,Tokyo
+19-08-2024,PA006,Tokyo,London
+19-08-2024,PA007,New York,Perth
+19-08-2024,PA008,Perth,New York
+19-08-2024,PA009,New York,Tokyo
+19-08-2024,PA010,Tokyo,New York
+20-08-2024,PA005,London,Tokyo
+20-08-2024,PA006,Tokyo,London
+20-08-2024,PA008,Perth,New York
+20-08-2024,PA009,New York,Tokyo
+20-08-2024,PA010,Tokyo,New York
+21-08-2024,PA001,London,New York
+21-08-2024,PA003,London,Perth
+21-08-2024,PA004,Perth,London
+21-08-2024,PA008,Perth,New York
+21-08-2024,PA010,Tokyo,New York
+21-08-2024,PA012,Tokyo,Perth
+22-08-2024,PA003,London,Perth
+22-08-2024,PA005,London,Tokyo
+22-08-2024,PA006,Tokyo,London
+22-08-2024,PA007,New York,Perth
+22-08-2024,PA008,Perth,New York
+22-08-2024,PA009,New York,Tokyo
+22-08-2024,PA011,Perth,Tokyo
+22-08-2024,PA012,Tokyo,Perth
+23-08-2024,PA002,New York,London
+23-08-2024,PA003,London,Perth
+23-08-2024,PA009,New York,Tokyo
+23-08-2024,PA011,Perth,Tokyo
+23-08-2024,PA012,Tokyo,Perth
+24-08-2024,PA003,London,Perth
+24-08-2024,PA004,Perth,London
+24-08-2024,PA006,Tokyo,London
+24-08-2024,PA008,Perth,New York
+24-08-2024,PA010,Tokyo,New York
+24-08-2024,PA011,Perth,Tokyo
+24-08-2024,PA012,Tokyo,Perth
+25-08-2024,PA001,London,New York
+25-08-2024,PA002,New York,London
+25-08-2024,PA003,London,Perth
+25-08-2024,PA004,Perth,London
+25-08-2024,PA006,Tokyo,London
+25-08-2024,PA008,Perth,New York
+25-08-2024,PA010,Tokyo,New York
+25-08-2024,PA011,Perth,Tokyo
+26-08-2024,PA001,London,New York
+26-08-2024,PA003,London,Perth
+26-08-2024,PA005,London,Tokyo
+26-08-2024,PA006,Tokyo,London
+26-08-2024,PA007,New York,Perth
+26-08-2024,PA009,New York,Tokyo
+26-08-2024,PA010,Tokyo,New York
+27-08-2024,PA001,London,New York
+27-08-2024,PA002,New York,London
+27-08-2024,PA003,London,Perth
+27-08-2024,PA004,Perth,London
+27-08-2024,PA005,London,Tokyo
+27-08-2024,PA007,New York,Perth
+27-08-2024,PA008,Perth,New York
+27-08-2024,PA010,Tokyo,New York
+27-08-2024,PA012,Tokyo,Perth
+28-08-2024,PA001,London,New York
+28-08-2024,PA003,London,Perth
+28-08-2024,PA004,Perth,London
+28-08-2024,PA005,London,Tokyo
+28-08-2024,PA008,Perth,New York
+28-08-2024,PA011,Perth,Tokyo
+28-08-2024,PA012,Tokyo,Perth
+29-08-2024,PA001,London,New York
+29-08-2024,PA004,Perth,London
+29-08-2024,PA006,Tokyo,London
+29-08-2024,PA007,New York,Perth
+29-08-2024,PA008,Perth,New York
+29-08-2024,PA009,New York,Tokyo
+29-08-2024,PA010,Tokyo,New York
+30-08-2024,PA002,New York,London
+30-08-2024,PA004,Perth,London
+30-08-2024,PA005,London,Tokyo
+30-08-2024,PA008,Perth,New York
+30-08-2024,PA009,New York,Tokyo
+30-08-2024,PA011,Perth,Tokyo
+31-08-2024,PA002,New York,London
+31-08-2024,PA003,London,Perth
+31-08-2024,PA004,Perth,London
+31-08-2024,PA006,Tokyo,London
+31-08-2024,PA007,New York,Perth
+31-08-2024,PA008,Perth,New York
+31-08-2024,PA010,Tokyo,New York
+31-08-2024,PA011,Perth,Tokyo
+31-08-2024,PA012,Tokyo,Perth
+01-09-2024,PA002,New York,London
+01-09-2024,PA003,London,Perth
+01-09-2024,PA004,Perth,London
+01-09-2024,PA005,London,Tokyo
+01-09-2024,PA006,Tokyo,London
+01-09-2024,PA007,New York,Perth
+01-09-2024,PA009,New York,Tokyo
+01-09-2024,PA012,Tokyo,Perth
+02-09-2024,PA003,London,Perth
+02-09-2024,PA004,Perth,London
+02-09-2024,PA005,London,Tokyo
+02-09-2024,PA006,Tokyo,London
+02-09-2024,PA007,New York,Perth
+02-09-2024,PA008,Perth,New York
+02-09-2024,PA011,Perth,Tokyo
+02-09-2024,PA012,Tokyo,Perth
+03-09-2024,PA001,London,New York
+03-09-2024,PA003,London,Perth
+03-09-2024,PA004,Perth,London
+03-09-2024,PA006,Tokyo,London
+03-09-2024,PA009,New York,Tokyo
+03-09-2024,PA011,Perth,Tokyo
+03-09-2024,PA012,Tokyo,Perth
+04-09-2024,PA002,New York,London
+04-09-2024,PA005,London,Tokyo
+04-09-2024,PA007,New York,Perth
+04-09-2024,PA009,New York,Tokyo
+04-09-2024,PA012,Tokyo,Perth
+05-09-2024,PA001,London,New York
+05-09-2024,PA002,New York,London
+05-09-2024,PA003,London,Perth
+05-09-2024,PA004,Perth,London
+05-09-2024,PA006,Tokyo,London
+05-09-2024,PA007,New York,Perth
+05-09-2024,PA012,Tokyo,Perth
+06-09-2024,PA001,London,New York
+06-09-2024,PA002,New York,London
+06-09-2024,PA005,London,Tokyo
+06-09-2024,PA006,Tokyo,London
+06-09-2024,PA007,New York,Perth
+06-09-2024,PA008,Perth,New York
+06-09-2024,PA011,Perth,Tokyo
+07-09-2024,PA002,New York,London
+07-09-2024,PA003,London,Perth
+07-09-2024,PA005,London,Tokyo
+07-09-2024,PA006,Tokyo,London
+07-09-2024,PA008,Perth,New York
+07-09-2024,PA009,New York,Tokyo
+07-09-2024,PA010,Tokyo,New York
+07-09-2024,PA011,Perth,Tokyo
+08-09-2024,PA001,London,New York
+08-09-2024,PA005,London,Tokyo
+08-09-2024,PA006,Tokyo,London
+08-09-2024,PA007,New York,Perth
+08-09-2024,PA008,Perth,New York
+08-09-2024,PA010,Tokyo,New York
+08-09-2024,PA011,Perth,Tokyo
+08-09-2024,PA012,Tokyo,Perth
+09-09-2024,PA003,London,Perth
+09-09-2024,PA004,Perth,London
+09-09-2024,PA009,New York,Tokyo
+09-09-2024,PA010,Tokyo,New York
+09-09-2024,PA011,Perth,Tokyo
+09-09-2024,PA012,Tokyo,Perth
+10-09-2024,PA001,London,New York
+10-09-2024,PA002,New York,London
+10-09-2024,PA003,London,Perth
+10-09-2024,PA004,Perth,London
+10-09-2024,PA006,Tokyo,London
+10-09-2024,PA008,Perth,New York
+10-09-2024,PA011,Perth,Tokyo
+10-09-2024,PA012,Tokyo,Perth
+11-09-2024,PA001,London,New York
+11-09-2024,PA003,London,Perth
+11-09-2024,PA004,Perth,London
+11-09-2024,PA005,London,Tokyo
+11-09-2024,PA007,New York,Perth
+11-09-2024,PA010,Tokyo,New York
+11-09-2024,PA011,Perth,Tokyo
+11-09-2024,PA012,Tokyo,Perth
+12-09-2024,PA002,New York,London
+12-09-2024,PA004,Perth,London
+12-09-2024,PA007,New York,Perth
+12-09-2024,PA008,Perth,New York
+12-09-2024,PA011,Perth,Tokyo
+13-09-2024,PA001,London,New York
+13-09-2024,PA002,New York,London
+13-09-2024,PA003,London,Perth
+13-09-2024,PA005,London,Tokyo
+13-09-2024,PA008,Perth,New York
+13-09-2024,PA012,Tokyo,Perth
+14-09-2024,PA001,London,New York
+14-09-2024,PA003,London,Perth
+14-09-2024,PA004,Perth,London
+14-09-2024,PA007,New York,Perth
+14-09-2024,PA008,Perth,New York
+14-09-2024,PA009,New York,Tokyo
+14-09-2024,PA010,Tokyo,New York
+14-09-2024,PA011,Perth,Tokyo
+15-09-2024,PA001,London,New York
+15-09-2024,PA005,London,Tokyo
+15-09-2024,PA006,Tokyo,London
+15-09-2024,PA007,New York,Perth
+15-09-2024,PA011,Perth,Tokyo
+16-09-2024,PA001,London,New York
+16-09-2024,PA002,New York,London
+16-09-2024,PA004,Perth,London
+16-09-2024,PA005,London,Tokyo
+16-09-2024,PA010,Tokyo,New York
+17-09-2024,PA001,London,New York
+17-09-2024,PA003,London,Perth
+17-09-2024,PA005,London,Tokyo
+17-09-2024,PA006,Tokyo,London
+17-09-2024,PA007,New York,Perth
+17-09-2024,PA009,New York,Tokyo
+17-09-2024,PA010,Tokyo,New York
+17-09-2024,PA012,Tokyo,Perth
+18-09-2024,PA001,London,New York
+18-09-2024,PA002,New York,London
+18-09-2024,PA003,London,Perth
+18-09-2024,PA006,Tokyo,London
+18-09-2024,PA007,New York,Perth
+18-09-2024,PA009,New York,Tokyo
+18-09-2024,PA011,Perth,Tokyo
+18-09-2024,PA012,Tokyo,Perth
+19-09-2024,PA002,New York,London
+19-09-2024,PA005,London,Tokyo
+19-09-2024,PA006,Tokyo,London
+19-09-2024,PA007,New York,Perth
+19-09-2024,PA008,Perth,New York
+19-09-2024,PA009,New York,Tokyo
+19-09-2024,PA010,Tokyo,New York
+19-09-2024,PA011,Perth,Tokyo
+19-09-2024,PA012,Tokyo,Perth
+20-09-2024,PA003,London,Perth
+20-09-2024,PA004,Perth,London
+20-09-2024,PA005,London,Tokyo
+20-09-2024,PA006,Tokyo,London
+20-09-2024,PA010,Tokyo,New York
+20-09-2024,PA012,Tokyo,Perth
+21-09-2024,PA001,London,New York
+21-09-2024,PA002,New York,London
+21-09-2024,PA004,Perth,London
+21-09-2024,PA005,London,Tokyo
+21-09-2024,PA007,New York,Perth
+21-09-2024,PA008,Perth,New York
+21-09-2024,PA011,Perth,Tokyo
+22-09-2024,PA001,London,New York
+22-09-2024,PA002,New York,London
+22-09-2024,PA003,London,Perth
+22-09-2024,PA005,London,Tokyo
+22-09-2024,PA007,New York,Perth
+22-09-2024,PA008,Perth,New York
+22-09-2024,PA009,New York,Tokyo
+22-09-2024,PA011,Perth,Tokyo
+22-09-2024,PA012,Tokyo,Perth
+23-09-2024,PA001,London,New York
+23-09-2024,PA003,London,Perth
+23-09-2024,PA004,Perth,London
+23-09-2024,PA005,London,Tokyo
+23-09-2024,PA006,Tokyo,London
+23-09-2024,PA008,Perth,New York
+23-09-2024,PA009,New York,Tokyo
+23-09-2024,PA010,Tokyo,New York
+23-09-2024,PA012,Tokyo,Perth
+24-09-2024,PA001,London,New York
+24-09-2024,PA002,New York,London
+24-09-2024,PA004,Perth,London
+24-09-2024,PA008,Perth,New York
+24-09-2024,PA009,New York,Tokyo
+24-09-2024,PA011,Perth,Tokyo
+24-09-2024,PA012,Tokyo,Perth
+25-09-2024,PA001,London,New York
+25-09-2024,PA003,London,Perth
+25-09-2024,PA004,Perth,London
+25-09-2024,PA005,London,Tokyo
+25-09-2024,PA006,Tokyo,London
+25-09-2024,PA007,New York,Perth
+25-09-2024,PA008,Perth,New York
+25-09-2024,PA009,New York,Tokyo
+25-09-2024,PA010,Tokyo,New York
+25-09-2024,PA011,Perth,Tokyo
+25-09-2024,PA012,Tokyo,Perth
+26-09-2024,PA001,London,New York
+26-09-2024,PA002,New York,London
+26-09-2024,PA003,London,Perth
+26-09-2024,PA004,Perth,London
+26-09-2024,PA005,London,Tokyo
+26-09-2024,PA007,New York,Perth
+26-09-2024,PA008,Perth,New York
+26-09-2024,PA009,New York,Tokyo
+26-09-2024,PA010,Tokyo,New York
+26-09-2024,PA011,Perth,Tokyo
+27-09-2024,PA001,London,New York
+27-09-2024,PA002,New York,London
+27-09-2024,PA004,Perth,London
+27-09-2024,PA007,New York,Perth
+27-09-2024,PA008,Perth,New York
+27-09-2024,PA012,Tokyo,Perth
+28-09-2024,PA002,New York,London
+28-09-2024,PA003,London,Perth
+28-09-2024,PA006,Tokyo,London
+28-09-2024,PA007,New York,Perth
+28-09-2024,PA008,Perth,New York
+28-09-2024,PA009,New York,Tokyo
+28-09-2024,PA010,Tokyo,New York
+28-09-2024,PA011,Perth,Tokyo
+29-09-2024,PA002,New York,London
+29-09-2024,PA006,Tokyo,London
+29-09-2024,PA007,New York,Perth
+29-09-2024,PA009,New York,Tokyo
+29-09-2024,PA012,Tokyo,Perth
+30-09-2024,PA002,New York,London
+30-09-2024,PA004,Perth,London
+30-09-2024,PA006,Tokyo,London
+30-09-2024,PA008,Perth,New York
+30-09-2024,PA009,New York,Tokyo
+30-09-2024,PA011,Perth,Tokyo
+30-09-2024,PA012,Tokyo,Perth
+01-10-2024,PA002,New York,London
+01-10-2024,PA004,Perth,London
+01-10-2024,PA005,London,Tokyo
+01-10-2024,PA006,Tokyo,London
+01-10-2024,PA007,New York,Perth
+01-10-2024,PA008,Perth,New York
+01-10-2024,PA010,Tokyo,New York
+01-10-2024,PA011,Perth,Tokyo
+01-10-2024,PA012,Tokyo,Perth
+02-10-2024,PA001,London,New York
+02-10-2024,PA002,New York,London
+02-10-2024,PA004,Perth,London
+02-10-2024,PA006,Tokyo,London
+02-10-2024,PA010,Tokyo,New York
+02-10-2024,PA011,Perth,Tokyo
+03-10-2024,PA002,New York,London
+03-10-2024,PA004,Perth,London
+03-10-2024,PA005,London,Tokyo
+03-10-2024,PA006,Tokyo,London
+03-10-2024,PA007,New York,Perth
+03-10-2024,PA008,Perth,New York
+03-10-2024,PA011,Perth,Tokyo
+03-10-2024,PA012,Tokyo,Perth
+04-10-2024,PA003,London,Perth
+04-10-2024,PA004,Perth,London
+04-10-2024,PA005,London,Tokyo
+04-10-2024,PA006,Tokyo,London
+04-10-2024,PA012,Tokyo,Perth
+05-10-2024,PA006,Tokyo,London
+05-10-2024,PA008,Perth,New York
+05-10-2024,PA009,New York,Tokyo
+05-10-2024,PA011,Perth,Tokyo
+05-10-2024,PA012,Tokyo,Perth
+06-10-2024,PA001,London,New York
+06-10-2024,PA003,London,Perth
+06-10-2024,PA008,Perth,New York
+06-10-2024,PA009,New York,Tokyo
+06-10-2024,PA010,Tokyo,New York
+06-10-2024,PA012,Tokyo,Perth
+07-10-2024,PA001,London,New York
+07-10-2024,PA002,New York,London
+07-10-2024,PA003,London,Perth
+07-10-2024,PA006,Tokyo,London
+07-10-2024,PA008,Perth,New York
+07-10-2024,PA010,Tokyo,New York
+07-10-2024,PA012,Tokyo,Perth
+08-10-2024,PA002,New York,London
+08-10-2024,PA003,London,Perth
+08-10-2024,PA005,London,Tokyo
+08-10-2024,PA006,Tokyo,London
+08-10-2024,PA008,Perth,New York
+08-10-2024,PA010,Tokyo,New York
+08-10-2024,PA011,Perth,Tokyo
+09-10-2024,PA003,London,Perth
+09-10-2024,PA006,Tokyo,London
+09-10-2024,PA007,New York,Perth
+09-10-2024,PA010,Tokyo,New York
+09-10-2024,PA011,Perth,Tokyo
+09-10-2024,PA012,Tokyo,Perth
+10-10-2024,PA001,London,New York
+10-10-2024,PA002,New York,London
+10-10-2024,PA003,London,Perth
+10-10-2024,PA006,Tokyo,London
+10-10-2024,PA007,New York,Perth
+10-10-2024,PA009,New York,Tokyo
+11-10-2024,PA002,New York,London
+11-10-2024,PA005,London,Tokyo
+11-10-2024,PA006,Tokyo,London
+11-10-2024,PA011,Perth,Tokyo
+12-10-2024,PA003,London,Perth
+12-10-2024,PA008,Perth,New York
+12-10-2024,PA009,New York,Tokyo
+13-10-2024,PA003,London,Perth
+13-10-2024,PA005,London,Tokyo
+13-10-2024,PA006,Tokyo,London
+13-10-2024,PA007,New York,Perth
+13-10-2024,PA009,New York,Tokyo
+13-10-2024,PA010,Tokyo,New York
+13-10-2024,PA011,Perth,Tokyo
+13-10-2024,PA012,Tokyo,Perth
+14-10-2024,PA001,London,New York
+14-10-2024,PA005,London,Tokyo
+14-10-2024,PA006,Tokyo,London
+14-10-2024,PA007,New York,Perth
+14-10-2024,PA009,New York,Tokyo
+14-10-2024,PA010,Tokyo,New York
+14-10-2024,PA011,Perth,Tokyo
+15-10-2024,PA004,Perth,London
+15-10-2024,PA007,New York,Perth
+15-10-2024,PA008,Perth,New York
+15-10-2024,PA009,New York,Tokyo
+15-10-2024,PA010,Tokyo,New York
+15-10-2024,PA012,Tokyo,Perth
+16-10-2024,PA001,London,New York
+16-10-2024,PA002,New York,London
+16-10-2024,PA005,London,Tokyo
+16-10-2024,PA006,Tokyo,London
+16-10-2024,PA008,Perth,New York
+16-10-2024,PA010,Tokyo,New York
+16-10-2024,PA011,Perth,Tokyo
+16-10-2024,PA012,Tokyo,Perth
+17-10-2024,PA001,London,New York
+17-10-2024,PA003,London,Perth
+17-10-2024,PA005,London,Tokyo
+17-10-2024,PA007,New York,Perth
+17-10-2024,PA009,New York,Tokyo
+17-10-2024,PA010,Tokyo,New York
+18-10-2024,PA001,London,New York
+18-10-2024,PA002,New York,London
+18-10-2024,PA003,London,Perth
+18-10-2024,PA004,Perth,London
+18-10-2024,PA006,Tokyo,London
+18-10-2024,PA007,New York,Perth
+18-10-2024,PA008,Perth,New York
+18-10-2024,PA009,New York,Tokyo
+18-10-2024,PA010,Tokyo,New York
+19-10-2024,PA001,London,New York
+19-10-2024,PA002,New York,London
+19-10-2024,PA004,Perth,London
+19-10-2024,PA006,Tokyo,London
+19-10-2024,PA007,New York,Perth
+19-10-2024,PA009,New York,Tokyo
+19-10-2024,PA010,Tokyo,New York
+20-10-2024,PA001,London,New York
+20-10-2024,PA002,New York,London
+20-10-2024,PA003,London,Perth
+20-10-2024,PA004,Perth,London
+20-10-2024,PA005,London,Tokyo
+20-10-2024,PA006,Tokyo,London
+20-10-2024,PA009,New York,Tokyo
+20-10-2024,PA011,Perth,Tokyo
+21-10-2024,PA001,London,New York
+21-10-2024,PA003,London,Perth
+21-10-2024,PA004,Perth,London
+21-10-2024,PA008,Perth,New York
+21-10-2024,PA010,Tokyo,New York
+22-10-2024,PA001,London,New York
+22-10-2024,PA002,New York,London
+22-10-2024,PA004,Perth,London
+22-10-2024,PA005,London,Tokyo
+22-10-2024,PA006,Tokyo,London
+22-10-2024,PA007,New York,Perth
+22-10-2024,PA008,Perth,New York
+22-10-2024,PA011,Perth,Tokyo
+22-10-2024,PA012,Tokyo,Perth
+23-10-2024,PA001,London,New York
+23-10-2024,PA002,New York,London
+23-10-2024,PA003,London,Perth
+23-10-2024,PA007,New York,Perth
+23-10-2024,PA009,New York,Tokyo
+24-10-2024,PA002,New York,London
+24-10-2024,PA003,London,Perth
+24-10-2024,PA005,London,Tokyo
+24-10-2024,PA009,New York,Tokyo
+24-10-2024,PA010,Tokyo,New York
+24-10-2024,PA011,Perth,Tokyo
+24-10-2024,PA012,Tokyo,Perth
+25-10-2024,PA001,London,New York
+25-10-2024,PA004,Perth,London
+25-10-2024,PA005,London,Tokyo
+25-10-2024,PA006,Tokyo,London
+25-10-2024,PA007,New York,Perth
+25-10-2024,PA008,Perth,New York
+25-10-2024,PA010,Tokyo,New York
+25-10-2024,PA011,Perth,Tokyo
+25-10-2024,PA012,Tokyo,Perth
+26-10-2024,PA001,London,New York
+26-10-2024,PA002,New York,London
+26-10-2024,PA004,Perth,London
+26-10-2024,PA008,Perth,New York
+27-10-2024,PA002,New York,London
+27-10-2024,PA003,London,Perth
+27-10-2024,PA005,London,Tokyo
+27-10-2024,PA006,Tokyo,London
+27-10-2024,PA008,Perth,New York
+27-10-2024,PA010,Tokyo,New York
+27-10-2024,PA012,Tokyo,Perth
+28-10-2024,PA003,London,Perth
+28-10-2024,PA005,London,Tokyo
+28-10-2024,PA006,Tokyo,London
+28-10-2024,PA008,Perth,New York
+28-10-2024,PA010,Tokyo,New York
+28-10-2024,PA012,Tokyo,Perth
+29-10-2024,PA001,London,New York
+29-10-2024,PA002,New York,London
+29-10-2024,PA003,London,Perth
+29-10-2024,PA004,Perth,London
+29-10-2024,PA007,New York,Perth
+29-10-2024,PA010,Tokyo,New York
+30-10-2024,PA001,London,New York
+30-10-2024,PA003,London,Perth
+30-10-2024,PA005,London,Tokyo
+30-10-2024,PA006,Tokyo,London
+30-10-2024,PA008,Perth,New York
+30-10-2024,PA009,New York,Tokyo
+30-10-2024,PA010,Tokyo,New York
+30-10-2024,PA011,Perth,Tokyo
+31-10-2024,PA002,New York,London
+31-10-2024,PA005,London,Tokyo
+31-10-2024,PA006,Tokyo,London
+31-10-2024,PA008,Perth,New York
+31-10-2024,PA009,New York,Tokyo
+31-10-2024,PA010,Tokyo,New York
+31-10-2024,PA011,Perth,Tokyo
+31-10-2024,PA012,Tokyo,Perth
+01-11-2024,PA001,London,New York
+01-11-2024,PA003,London,Perth
+01-11-2024,PA009,New York,Tokyo
+01-11-2024,PA010,Tokyo,New York
+01-11-2024,PA011,Perth,Tokyo
+01-11-2024,PA012,Tokyo,Perth
+02-11-2024,PA002,New York,London
+02-11-2024,PA005,London,Tokyo
+02-11-2024,PA006,Tokyo,London
+02-11-2024,PA007,New York,Perth
+02-11-2024,PA008,Perth,New York
+02-11-2024,PA009,New York,Tokyo
+02-11-2024,PA010,Tokyo,New York
+02-11-2024,PA011,Perth,Tokyo
+02-11-2024,PA012,Tokyo,Perth
+03-11-2024,PA001,London,New York
+03-11-2024,PA007,New York,Perth
+03-11-2024,PA008,Perth,New York
+03-11-2024,PA012,Tokyo,Perth
+04-11-2024,PA001,London,New York
+04-11-2024,PA002,New York,London
+04-11-2024,PA003,London,Perth
+04-11-2024,PA004,Perth,London
+04-11-2024,PA007,New York,Perth
+04-11-2024,PA008,Perth,New York
+04-11-2024,PA009,New York,Tokyo
+04-11-2024,PA010,Tokyo,New York
+04-11-2024,PA011,Perth,Tokyo
+04-11-2024,PA012,Tokyo,Perth
+05-11-2024,PA001,London,New York
+05-11-2024,PA002,New York,London
+05-11-2024,PA003,London,Perth
+05-11-2024,PA005,London,Tokyo
+05-11-2024,PA007,New York,Perth
+05-11-2024,PA008,Perth,New York
+05-11-2024,PA009,New York,Tokyo
+05-11-2024,PA010,Tokyo,New York
+05-11-2024,PA011,Perth,Tokyo
+06-11-2024,PA001,London,New York
+06-11-2024,PA003,London,Perth
+06-11-2024,PA005,London,Tokyo
+06-11-2024,PA006,Tokyo,London
+06-11-2024,PA007,New York,Perth
+06-11-2024,PA009,New York,Tokyo
+06-11-2024,PA010,Tokyo,New York
+06-11-2024,PA011,Perth,Tokyo
+07-11-2024,PA004,Perth,London
+07-11-2024,PA006,Tokyo,London
+07-11-2024,PA007,New York,Perth
+07-11-2024,PA008,Perth,New York
+07-11-2024,PA012,Tokyo,Perth
+08-11-2024,PA002,New York,London
+08-11-2024,PA003,London,Perth
+08-11-2024,PA005,London,Tokyo
+08-11-2024,PA007,New York,Perth
+08-11-2024,PA008,Perth,New York
+08-11-2024,PA009,New York,Tokyo
+09-11-2024,PA001,London,New York
+09-11-2024,PA002,New York,London
+09-11-2024,PA005,London,Tokyo
+09-11-2024,PA010,Tokyo,New York
+09-11-2024,PA012,Tokyo,Perth
+10-11-2024,PA006,Tokyo,London
+10-11-2024,PA007,New York,Perth
+10-11-2024,PA008,Perth,New York
+10-11-2024,PA009,New York,Tokyo
+10-11-2024,PA010,Tokyo,New York
+10-11-2024,PA011,Perth,Tokyo
+11-11-2024,PA001,London,New York
+11-11-2024,PA003,London,Perth
+11-11-2024,PA004,Perth,London
+11-11-2024,PA005,London,Tokyo
+11-11-2024,PA006,Tokyo,London
+11-11-2024,PA008,Perth,New York
+11-11-2024,PA009,New York,Tokyo
+11-11-2024,PA011,Perth,Tokyo
+12-11-2024,PA002,New York,London
+12-11-2024,PA003,London,Perth
+12-11-2024,PA005,London,Tokyo
+12-11-2024,PA006,Tokyo,London
+12-11-2024,PA008,Perth,New York
+12-11-2024,PA009,New York,Tokyo
+12-11-2024,PA010,Tokyo,New York
+13-11-2024,PA001,London,New York
+13-11-2024,PA003,London,Perth
+13-11-2024,PA006,Tokyo,London
+13-11-2024,PA010,Tokyo,New York
+13-11-2024,PA011,Perth,Tokyo
+14-11-2024,PA001,London,New York
+14-11-2024,PA002,New York,London
+14-11-2024,PA004,Perth,London
+14-11-2024,PA010,Tokyo,New York
+14-11-2024,PA011,Perth,Tokyo
+15-11-2024,PA001,London,New York
+15-11-2024,PA003,London,Perth
+15-11-2024,PA008,Perth,New York
+15-11-2024,PA012,Tokyo,Perth
+16-11-2024,PA004,Perth,London
+16-11-2024,PA007,New York,Perth
+16-11-2024,PA008,Perth,New York
+16-11-2024,PA009,New York,Tokyo
+17-11-2024,PA001,London,New York
+17-11-2024,PA007,New York,Perth
+17-11-2024,PA009,New York,Tokyo
+17-11-2024,PA010,Tokyo,New York
+17-11-2024,PA012,Tokyo,Perth
+18-11-2024,PA005,London,Tokyo
+18-11-2024,PA011,Perth,Tokyo
+18-11-2024,PA012,Tokyo,Perth
+19-11-2024,PA001,London,New York
+19-11-2024,PA002,New York,London
+19-11-2024,PA005,London,Tokyo
+19-11-2024,PA006,Tokyo,London
+19-11-2024,PA007,New York,Perth
+20-11-2024,PA007,New York,Perth
+20-11-2024,PA009,New York,Tokyo
+20-11-2024,PA010,Tokyo,New York
+20-11-2024,PA011,Perth,Tokyo
